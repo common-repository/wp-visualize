@@ -1,0 +1,247 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.dashicons-trash, .dashicons-images-alt2, .copy-shortcode {
+    cursor: pointer;
+}
+
+#wp-visualize-wc {
+    margin-left: 150px;
+}
+
+.wpv-hero h2 {
+    font-size: 2.4em !important;
+}
+
+.wpv-hero h3 {
+    font-size: 1.6em !important;
+}
+
+.wpv-hero [data-style="upgrade"] {
+    width: 100%;
+    max-width: 350px;
+    font-size: 2em !important;
+}
+
+.wpv-hero ul {
+    margin-left: 20px;
+}
+
+.wpv-hero li {
+    list-style: decimal;
+    margin-left: 15px;
+}
+
+.wpv-hero no-ls {
+    list-style: none;
+    font-size: 1.6em !important;
+    font-weight: bold;
+}
+
+.wpv-hero .standout {
+    display: block;
+    font-size: 1.6em !important;
+    font-weight: bold;
+    line-height: 1.5;
+    background-color: #0071A1;
+    border-radius: 4px;
+    padding: 10px;
+    color: #fff;
+}
+
+.wpv-hero .standout span {
+    text-decoration: underline;
+}
+
+.wpv-hero button {
+    cursor: pointer;
+}
+
+.wpv-background-color {
+    display: inline-block;
+    height: 20px;
+    min-width: 40px;
+}
+
+.wpv-logo {
+    max-width: 300px;
+}
+
+.wpv-sent {
+    display: none;
+}
+
+.wpv-sent h3 {
+    margin: 10px 0 0;
+    padding: 0;
+    color: #0071A1;
+}
+
+.wpv-sent p {
+    margin: 0;
+    padding: 0;
+}
+
+.wpv-border {
+    background: #f0f0f0;
+    border: solid 1px #d4d4d4;
+    border-radius: 4px;
+    padding: 8px;
+    margin: 10px 0;
+}
+
+.wpv-overflow-scroll {
+    overflow-x: scroll;
+}
+
+.bg-white {
+    background: white;
+}
+
+.wpv-border h3 {
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.membervideo {
+    width: 500px;
+    max-width: 100%;
+    max-height: max-content;
+}
+
+.reg_status {
+    font-size: 2em !important;
+    display: inline-block;
+    vertical-align: bottom;
+    padding: 12px !important;
+}
+
+.reg_status span {
+    font-size: 1.6em !important;
+    margin-right: 12px;
+}
+
+.unregistered_user {
+    background: #ff0000;
+    color: #ffffff;
+}
+
+.registered_user {
+    background: #008000;
+    color: #ffffff;
+}
+
+.registration_response {
+    margin-left: 15px;
+}
+
+.v-logo {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    margin: 10px 0 0 10px;
+}
+
+.v-err {
+    color: #ff0000;
+}
+
+.v-help-heading {
+    background: #F1F1F1;
+    color: #000000;
+    padding: 12px;
+    font-size: 1.4em !important;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    margin-bottom: 2px;
+    font-weight: 600
+}
+
+.v-help-content {
+    background: #ffffff;
+    color: rgba(0, 0, 0, 0.8);
+    padding: 16px;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    display: none;
+    text-transform: none;
+    font-size: 14px !important;
+    cursor: auto;
+    font-weight: 300
+}
+
+.v-help-vid-icon {
+    float: right;
+    color: #ff0000;
+    font-size: 3em !important;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.v-example-link {
+    padding: 12px;
+    border-radius: 60px;
+    margin: 8px;
+    text-decoration: none;
+    line-height: 5;
+    background: #0071A1;
+    color: #fff;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+.max-reached-msg {
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.v-upgrade {
+    padding: 6px;
+    width: 100%;
+    font-size: 1.8em;
+}
+
+#preview_custom_logo {
+    max-height: 120px;
+}
+
+.wpv-button-link {
+    padding: 10px 0;
+    display: block;
+}
+
+/* Free plugin registration form styling */
+#fActivatenow {
+    display: flex;
+    align-items: center;
+}
+
+#fActivatenow > input {
+    margin-right: 10px;
+}
+
+#send_activation {
+    text-transform: capitalize;
+}
+
+.free-reg-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.free-reg-form > input, select {
+    margin: 5px 0;
+}
+
+.free-reg-form > button {
+    margin-left: auto !important;
+    display: block !important;
+    width: max-content;
+}
+
+/* Editing some default Wordpress Styles */
+.nav-tab-wrapper {
+    padding-bottom: 0 !important;
+    padding-left: 0 !important
+}

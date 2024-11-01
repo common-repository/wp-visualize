@@ -1,0 +1,1377 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-16 13:11+1030\n"
+"PO-Revision-Date: 2020-12-16 13:26+1030\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: admin/class-wp-visualize-admin.php:56
+msgid "Select"
+msgstr "选择"
+
+#: admin/class-wp-visualize-admin.php:56
+msgid "Images"
+msgstr "图片"
+
+#: admin/class-wp-visualize-admin.php:57
+msgid "Clear"
+msgstr "清除"
+
+#: admin/class-wp-visualize-admin.php:59
+msgid ""
+"Select images with transparent backgrounds for best results. \n"
+"                    Then click Save WP-Visualize. WP-Visualize will be "
+"available for this product. To remove from this product, \n"
+"                    click clear."
+msgstr ""
+"选择具有透明背景的图像以获得最佳效果。\n"
+"                然后单击\"保存 WP 可视化\"。WP 可视化将可用于此产品。要从本产"
+"品中删除，\n"
+"                单击\"清除\"。"
+
+#: admin/class-wp-visualize-admin.php:116 admin/partials/customize.php:37
+msgid "Customize"
+msgstr "自定义"
+
+#: admin/class-wp-visualize-admin.php:118
+msgid "Upgrade"
+msgstr "现在升级"
+
+#: admin/class-wp-visualize-admin.php:120
+msgid "Getting Started"
+msgstr "刚开始？"
+
+#: admin/class-wp-visualize-admin.php:127
+msgid "Settings"
+msgstr "设置"
+
+#: admin/partials/customize.php:28 admin/partials/register.php:23
+#: admin/partials/wp-visualize-admin-display.php:32
+msgid "WP-Visualize for WordPress"
+msgstr "WP 可视化用于 WordPress"
+
+#: admin/partials/customize.php:32
+msgid "Customizations are only available to paid members."
+msgstr "自定义仅适用于付费会员。"
+
+#: admin/partials/customize.php:33
+msgid "Upgrade now"
+msgstr "现在升级"
+
+#: admin/partials/customize.php:34 admin/partials/customize.php:73
+#: admin/partials/help.php:140 admin/partials/help.php:160
+#: admin/partials/help.php:163 admin/partials/wp-visualize-admin-display.php:55
+#: admin/partials/wp-visualize-admin-display.php:78
+#: admin/partials/wp-visualize-admin-display.php:155
+#: admin/partials/wp-visualize-admin-display.php:158
+#: public/class-wp-visualize-public.php:96
+msgid "CLICK HERE"
+msgstr "点击这里"
+
+#: admin/partials/customize.php:38
+msgid "Background Logo"
+msgstr "背景徽标"
+
+#: admin/partials/customize.php:39
+msgid "Add your own branding to the Visualize screen."
+msgstr "将您自己的品牌添加到可视化屏幕。"
+
+#: admin/partials/customize.php:43
+msgid "Selected logo for screen"
+msgstr "屏幕的选定徽标"
+
+#: admin/partials/customize.php:45
+msgid "Select Logo"
+msgstr "选择Logo"
+
+#: admin/partials/customize.php:46
+msgid "Clear Logo"
+msgstr "删除LOGO"
+
+#: admin/partials/customize.php:49
+msgid "Screen Background Color"
+msgstr "屏幕背景颜色"
+
+#: admin/partials/customize.php:50
+msgid "Select the background color of your Visualize screen."
+msgstr "选择可视化屏幕的背景颜色。"
+
+#: admin/partials/customize.php:55
+msgid "Button Color"
+msgstr "按钮颜色"
+
+#: admin/partials/customize.php:56
+msgid ""
+"Select the background color of the Visualize button displayed on your page."
+msgstr "选择页面上显示的\"可视化\"按钮的背景颜色。"
+
+#: admin/partials/customize.php:60
+msgid "Button font size"
+msgstr "按钮操作"
+
+#: admin/partials/customize.php:65
+msgid "Show Powered By Visualize"
+msgstr "显示由可视化供电"
+
+#: admin/partials/customize.php:72
+msgid "Upgrade to save changes"
+msgstr "升级以保存更改"
+
+#: admin/partials/customize.php:76
+msgid "SAVE CHANGES"
+msgstr "保存更改"
+
+#: admin/partials/help.php:24
+msgid "Fast Start Tips"
+msgstr "快速启动提示"
+
+#: admin/partials/help.php:31
+msgid "Get up to speed FAST! Watch our Fast Start Video"
+msgstr "快快快！观看我们的快速启动视频"
+
+#: admin/partials/help.php:36
+msgid "For best results remove image backgrounds"
+msgstr "为获得最佳效果，请删除图像背景"
+
+#: admin/partials/help.php:37
+msgid ""
+"As mentioned in our video, remove the backgrounds from your images. It's "
+"instant and using the following link is simple!"
+msgstr ""
+"如我们的视频中所述，请从图像中删除背景。这是即时的，使用以下链接很简单！"
+
+#: admin/partials/help.php:37
+msgid "CLICK HERE TO REMOVE BACKGROUNDS FROM IMAGES"
+msgstr "单击此处从图像中删除背景"
+
+#: admin/partials/help.php:40
+msgid "What's a shortcode?"
+msgstr "什么是短代码？"
+
+#: admin/partials/help.php:43
+msgid ""
+"Shortcodes in WordPress are little bits of code that, when pasted in your "
+"webpages, can add extensive functionality. In WP-Visualize, shortcodes are "
+"created on the"
+msgstr ""
+"WordPress 中的短代码是一些代码，在网页中粘贴时可以添加大量功能。在 WP 可视化"
+"中，在"
+
+#: admin/partials/help.php:43
+msgid "main WP-Visualize page"
+msgstr "主WP可视化页面"
+
+#: admin/partials/help.php:45
+msgid "How to create a WP Visualize shortcode."
+msgstr "如何创建 WP 可视化短码。"
+
+#: admin/partials/help.php:48
+msgid "Enter a shortcode name in the box provided."
+msgstr "在提供的框中输入短代码名称。"
+
+#: admin/partials/help.php:49
+msgid ""
+"Click 'Select Images' and either add or select from already uploaded images. "
+"Once selected, click 'Choose Images' button on the bottom right of the page."
+"<br>For best results we strongly recommend to use images with the "
+"backgrounds removed."
+msgstr ""
+"单击\"选择图像\"，然后添加或从已上传的图像中选择。选择后，单击页面右下角的"
+"\"选择图像\"按钮。<br>为了获得最佳效果，我们强烈建议使用已移除背景的图像。"
+
+#: admin/partials/help.php:49
+msgid "Use this for best background removal results"
+msgstr "使用此选项可获得最佳背景删除结果"
+
+#: admin/partials/help.php:49
+msgid "in seconds."
+msgstr "在几秒钟内。"
+
+#: admin/partials/help.php:50
+msgid "Then click the 'Create Shortcode' button."
+msgstr "然后单击\"创建短代码\"按钮。"
+
+#: admin/partials/help.php:53
+msgid "Your shortcode is created and now appears on your list of shortcodes."
+msgstr "您的短码已创建，现在将显示在您的短码列表中。"
+
+#: admin/partials/help.php:55
+msgid "To Add your shortcode to a webpage."
+msgstr "将短代码添加到网页。"
+
+#: admin/partials/help.php:58
+msgid "Click the copy icon next to your shortcode to copy the shortcode."
+msgstr "单击短代码旁边的复制图标以复制短代码。"
+
+#: admin/partials/help.php:59
+msgid ""
+"Open any page or post in your website and paste the code. Then click save"
+msgstr "打开网站中的任何页面或帖子并粘贴代码。然后单击\"保存\""
+
+#: admin/partials/help.php:60
+msgid "You have now successfully integrated WP-Visualize to that page or post."
+msgstr "您现在已成功将 WP 可视化集成到该页面或帖子中。"
+
+#: admin/partials/help.php:62
+msgid ""
+"View that page or post and you will see a visualize button where the "
+"shortcode was pasted. Clicking that button will launch WP-Visualize."
+msgstr ""
+"查看该页面或帖子，你会看到一个显示按钮，其中粘贴了短代码。单击该按钮将启动 "
+"WP 可视化。"
+
+#: admin/partials/help.php:67
+msgid "How to add Visualizer to Products"
+msgstr "如何向产品添加可视化工具"
+
+#: admin/partials/help.php:69
+msgid ""
+"WP-Visualize is fully integrated with Woocommerce so long as you have "
+"upgraded to a paid Member. If not"
+msgstr "WP-可视化与 WooCommerce 完全集成，只要您已升级到付费会员。如果不是"
+
+#: admin/partials/help.php:69
+msgid "UPGRADE for this feature"
+msgstr "此功能的升级"
+
+#: admin/partials/help.php:71
+msgid "To add WP-Visualize to a product:"
+msgstr "要将 WP 可视化添加到产品中："
+
+#: admin/partials/help.php:74
+msgid "open a product for edit"
+msgstr "打开要编辑的产品"
+
+#: admin/partials/help.php:75
+msgid "scroll down to the general options."
+msgstr "向下滚动到常规选项。"
+
+#: admin/partials/help.php:76
+msgid "Click the 'Select WP-Visualize Images' button."
+msgstr "单击\"选择 WP 可视化图像\"按钮。"
+
+#: admin/partials/help.php:77
+msgid ""
+"To select images for WP-Visualizer for this product, either add or select "
+"from already uploaded images."
+msgstr "要为此产品选择 WP 可视化工具的图像，请添加或从已上传的图像中选择。"
+
+#: admin/partials/help.php:78
+msgid ""
+"Once images are selected, click 'Choose Images' button on the bottom right "
+"of the page to close the media library."
+msgstr "选择图像后，单击页面右下角的\"选择图像\"按钮以关闭媒体库。"
+
+#: admin/partials/help.php:82
+msgid ""
+"WP-Visualize is now added to this product and a Visualize button now appears "
+"on that product's page."
+msgstr ""
+"WP-可视化现在添加到此产品中，并且该产品的页面上现在出现一个可视化按钮。"
+
+#: admin/partials/help.php:83
+msgid ""
+"To remove WP-Visualize from this product, return to the product edit page "
+"and click the clear button in the WP-Visualize section of general settings."
+msgstr ""
+"要从本产品中删除 WP 可视化，请返回到产品编辑页面，然后单击常规设置的 WP 可视"
+"化部分中的清除按钮。"
+
+#: admin/partials/help.php:87
+msgid "Use Examples"
+msgstr "使用示例"
+
+#: admin/partials/help.php:89
+msgid ""
+"There are limitless possibilities on how you can boost business with WP-"
+"Visualize"
+msgstr "在如何通过 WP 可视化提升业务方面，存在无限的可能性"
+
+#: admin/partials/help.php:90
+msgid "Below are just a few examples."
+msgstr "下面是几个例子。"
+
+#: admin/partials/help.php:91
+msgid "Air Conditioning Evap Units"
+msgstr "空调蒸发装置"
+
+#: admin/partials/help.php:92
+msgid "Air Conditioning Inverters"
+msgstr "空调变频器"
+
+#: admin/partials/help.php:93
+msgid "Auto - Accessories"
+msgstr "汽车 - 配件"
+
+#: admin/partials/help.php:94
+msgid "Air Conditioning Splits"
+msgstr "空调分离"
+
+#: admin/partials/help.php:95
+msgid "Auto - Wheels & Tyres"
+msgstr "汽车 - 车轮和轮胎"
+
+#: admin/partials/help.php:96
+msgid "Carpets & Flooring"
+msgstr "地毯和地板"
+
+#: admin/partials/help.php:97
+msgid "Curtains & Blinds"
+msgstr "窗帘和百叶窗"
+
+#: admin/partials/help.php:98
+msgid "Dresses"
+msgstr "连衣裙"
+
+#: admin/partials/help.php:99
+msgid "Fencing"
+msgstr "击剑"
+
+#: admin/partials/help.php:100
+msgid "Furniture"
+msgstr "家具"
+
+#: admin/partials/help.php:101
+msgid "Garage Doors"
+msgstr "车库门"
+
+#: admin/partials/help.php:102
+msgid "Garages & Sheds"
+msgstr "车库和棚屋"
+
+#: admin/partials/help.php:103
+msgid "Glasses"
+msgstr "眼镜"
+
+#: admin/partials/help.php:104
+msgid "Hair Styles"
+msgstr "发型"
+
+#: admin/partials/help.php:105
+msgid "Hats"
+msgstr "帽子"
+
+#: admin/partials/help.php:106
+msgid "Heaters & Fireplaces"
+msgstr "加热器和壁炉"
+
+#: admin/partials/help.php:107
+msgid "Electrical"
+msgstr "电动"
+
+#: admin/partials/help.php:108
+msgid "Houses & Properties"
+msgstr "房屋与物业"
+
+#: admin/partials/help.php:109
+msgid "Kitchens & Cabinetry"
+msgstr "厨房和橱柜"
+
+#: admin/partials/help.php:110
+msgid "Lighting"
+msgstr "光照  Lighting"
+
+#: admin/partials/help.php:111
+msgid "Patio Doors"
+msgstr "帕蒂奥门"
+
+#: admin/partials/help.php:112
+msgid "Pergolas & Gazebos"
+msgstr "佩戈拉斯 + 凉亭"
+
+#: admin/partials/help.php:113
+msgid "Plants & Trees"
+msgstr "植物与树木"
+
+#: admin/partials/help.php:114
+msgid "Roller Shutters"
+msgstr "滚轮快门"
+
+#: admin/partials/help.php:115
+msgid "Screen Doors"
+msgstr "屏幕门"
+
+#: admin/partials/help.php:116
+msgid "Shirts"
+msgstr "衬衫"
+
+#: admin/partials/help.php:117
+msgid "Swimming Pools"
+msgstr "游泳池"
+
+#: admin/partials/help.php:118
+msgid "Tennis Courts"
+msgstr "网球场"
+
+#: admin/partials/help.php:119
+msgid "Whitegoods (eg. TVs Fridges)"
+msgstr "白色商品（例如电视冰箱）"
+
+#: admin/partials/help.php:131
+msgid "How to add Images"
+msgstr "如何添加图像"
+
+#: admin/partials/help.php:134
+msgid ""
+"Images are added to WP-Visualize By clicking the 'Select Images' button."
+msgstr "单击\"选择图像\"按钮将图像添加到 WP 可视化。"
+
+#: admin/partials/help.php:135
+msgid ""
+"To edit your shortcode selection at anytime, click the edit Images button in "
+"your list of shortcodes. To edit your product images, open your product edit "
+"page and click the Select Images button."
+msgstr ""
+"要随时编辑您的短码选择，请单击短码列表中的编辑\"图像\"按钮。要编辑产品图像，"
+"请打开产品编辑页面，然后单击\"选择图像\"按钮。"
+
+#: admin/partials/help.php:136
+msgid ""
+"Make your selection and then close the Medial Library by clicking the "
+"'Choose Images' button on the bottom right of the screen."
+msgstr "进行选择，然后单击屏幕右下角的\"选择图像\"按钮关闭 Medial 库。"
+
+#: admin/partials/help.php:140
+msgid ""
+"For best and easiest results remove the background from your product images. "
+"Transparent backgrounds look best!"
+msgstr ""
+"为了获得最佳和最简单的结果，请从产品图像中删除背景。透明背景看起来最好！"
+
+#: admin/partials/help.php:140
+msgid "to remove backgrounds from your images."
+msgstr "以从图像中删除背景。"
+
+#: admin/partials/help.php:144
+msgid "Placing Shortcodes"
+msgstr "放置短代码"
+
+#: admin/partials/help.php:148
+msgid ""
+"Copy your shortcode from your 'Shortcodes List' on your main shortcodes "
+"page.  Each Shortcode can be used multiple times on different pages."
+msgstr ""
+"从主短代码页面上的\"短代码列表\"复制您的短代码。 每个短码可以在不同的页面上多"
+"次使用。"
+
+#: admin/partials/help.php:149
+msgid ""
+"Once copied, open the page or post edit screen to integrate WP-Visualize."
+msgstr "复制后，打开页面或发布编辑屏幕以集成 WP 可视化。"
+
+#: admin/partials/help.php:151
+msgid ""
+"Paste the shortcode wherever you would like the WP-Visualize button to "
+"appear."
+msgstr "将短代码粘贴到希望 WP 可视化按钮显示的任何地方。"
+
+#: admin/partials/help.php:152
+msgid "Save the page or post."
+msgstr "保存页面或帖子。"
+
+#: admin/partials/help.php:154
+msgid "Job Done!! Your shortcode is now integrated."
+msgstr "工作完成！！您的短代码现已集成。"
+
+#: admin/partials/help.php:159
+msgid "Is there an Affiliate Program?"
+msgstr "是否有联盟计划？"
+
+#: admin/partials/help.php:160
+msgid ""
+"Yes! We pay generous recurring commisions for those who help promote WP-"
+"Visualize to others. For details about our Affiliate Program or to get "
+"started"
+msgstr ""
+"是的！我们为那些帮助向他人推广 WP 可视化的人支付慷慨的定期服务。有关我们的联"
+"盟计划或入门的详细信息"
+
+#: admin/partials/help.php:162
+msgid "Need Support?"
+msgstr "需要支持？"
+
+#: admin/partials/help.php:163
+msgid "Premium Support is available to upgraded members via"
+msgstr "高级支持可通过"
+
+#: admin/partials/register.php:30
+msgid "Current Status: You are currently using the free version"
+msgstr "当前状态：您当前正在使用免费版本"
+
+#: admin/partials/register.php:33
+msgid "Thank you: You are currently upgraded"
+msgstr "谢谢： 您当前已升级"
+
+#: admin/partials/register.php:36
+msgid ""
+"Thank you: You are\n"
+"                    currently upgraded"
+msgstr ""
+"谢谢： 你是\n"
+"                    当前升级"
+
+#: admin/partials/register.php:44
+msgid "Why upgrade with WP-Visualize?"
+msgstr "为什么要使用 WP 可视化进行升级？"
+
+#: admin/partials/register.php:46
+msgid "Add Unlimited images of your products and services"
+msgstr "添加产品和服务的无限图片"
+
+#: admin/partials/register.php:47
+msgid "White label to your brand"
+msgstr ""
+
+#: admin/partials/register.php:48
+msgid "Integrate Unlimited Woocommerce products"
+msgstr "集成无限 Woocommerce 产品"
+
+#: admin/partials/register.php:49
+msgid "Create unlimited shortcodes within your website"
+msgstr "在您的网站内创建无限短码"
+
+#: admin/partials/register.php:50
+msgid "Customize buttons and logos"
+msgstr "自定义按钮和徽标"
+
+#: admin/partials/register.php:51
+msgid "Access to Premium support & features"
+msgstr "访问高级支持和功能"
+
+#: admin/partials/register.php:54
+msgid "How to Upgrade?"
+msgstr "如何升级？"
+
+#: admin/partials/register.php:55
+msgid ""
+"Click the button below and become an Upgraded Member. As an Upgraded Member "
+"you help us to maintain and extend the\n"
+"                capabilities of WP-Visualiser while getting SIGNIFICANT "
+"features and benefits. On upgrading, we will email your\n"
+"                upgrade registration code. Copy that code and enter below on "
+"this page."
+msgstr ""
+"单击下面的按钮，成为升级会员。作为升级会员，您帮助我们维护和扩展\n"
+"                WP 可视化器的功能，同时获得显著的功能和优势。升级后，我们将通"
+"过电子邮件将\n"
+"                升级注册代码。复制该代码，并在此页面上输入下方。"
+
+#: admin/partials/register.php:62
+msgid "Enter your Upgrade Registration Code"
+msgstr "输入升级注册代码"
+
+#: admin/partials/register.php:64
+#: admin/partials/wp-visualize-admin-display.php:218
+msgid "Enter your WP-Visualizer registration code"
+msgstr "输入您的 WP 可视化器注册代码"
+
+#: admin/partials/register.php:69
+msgid "SAVE UPGRADE REGISTRATION CODE"
+msgstr "保存升级注册代码"
+
+#: admin/partials/wp-visualize-admin-display.php:44
+msgid "Welcome to WP Visualize."
+msgstr "什么是WP可视化."
+
+#: admin/partials/wp-visualize-admin-display.php:48
+msgid ""
+"WP-Visualize is revolutionary, letting your customers see themselves with "
+"your products and services without the need for apps and 3D images. It's not "
+"just for your website. Let customers directly visualize from from Social "
+"Media, Digital Advertising and even QR-codes, in store or in the window when "
+"youre closed!. And because customers are engaged far, far longer, your "
+"'bounce rate' can massively decrease and your SEO goes up! Your brand gets "
+"shared more often and can sales improve dramatically. WP-Visualize works "
+"within Internet browsers on phones, tablets, laptops and desktops."
+msgstr ""
+"WP-Visualize 是革命性的，让您的客户能够看到您的产品和服务。它不只是为您的网"
+"站。让客户直接从社交媒体，数字广告，甚至QR码，在商店或窗口，当你关闭！而且，"
+"由于客户参与时间要长得多，您的\"反弹率\"可能会大幅下降，您的 SEO 会上升！您的"
+"品牌可以更频繁地分享，并且销售额可以显著提高。对于多个平台或客户所需的特殊下"
+"载，无需昂贵的应用。WP-可视化在手机、平板电脑、笔记本电脑和台式机的互联网浏览"
+"器中工作。"
+
+#: admin/partials/wp-visualize-admin-display.php:50
+msgid "Create shortcodes below to paste anywhere throughout your website."
+msgstr "在您的网站内创建无限短码"
+
+#: admin/partials/wp-visualize-admin-display.php:54
+msgid "Just getting started?"
+msgstr "刚开始？"
+
+#: admin/partials/wp-visualize-admin-display.php:55
+msgid "to watch our FAST-START video and get up to speed ... FAST!"
+msgstr "观看我们的快速启动视频， 并跟上速度...快速！"
+
+#: admin/partials/wp-visualize-admin-display.php:60
+msgid "Let us help you"
+msgstr ""
+
+#: admin/partials/wp-visualize-admin-display.php:62
+msgid ""
+"We get to hear exactly whats working best for others and would love to help "
+"you get great results too. Share your name and email and let us provide "
+"specific tips to help you achieve the best results possible. We don't spam "
+"and any information we pass on will be specific and valuable"
+msgstr ""
+
+#: admin/partials/wp-visualize-admin-display.php:66
+msgid "Your name"
+msgstr "你的名字"
+
+#: admin/partials/wp-visualize-admin-display.php:68
+msgid "Your email"
+msgstr "您的邮箱"
+
+#: admin/partials/wp-visualize-admin-display.php:71
+msgid "SEND ME FREE TIPS & HACKS"
+msgstr ""
+
+#: admin/partials/wp-visualize-admin-display.php:76
+msgid "We would really appreciate your support."
+msgstr "我们非常感谢您的支持。"
+
+#: admin/partials/wp-visualize-admin-display.php:76
+msgid ""
+"Please help us keep developing & improving WP-Visualize by showing your "
+"support a with a 5 Star review. It really helps"
+msgstr ""
+"请帮助我们继续开发和改进 Wp 可视化， 显示您的支持与 5 星评论。它真的有帮助"
+
+#: admin/partials/wp-visualize-admin-display.php:78
+msgid "Thank you"
+msgstr "谢谢"
+
+#: admin/partials/wp-visualize-admin-display.php:95
+msgid "Your Shortcodes"
+msgstr "您的短代码"
+
+#: admin/partials/wp-visualize-admin-display.php:97
+#: admin/partials/wp-visualize-admin-display.php:196
+msgid "Your Products"
+msgstr "存货"
+
+#: admin/partials/wp-visualize-admin-display.php:99
+msgid ""
+"Your Link Generator & \n"
+"                        QR Codes"
+msgstr ""
+"链路生成器\n"
+"                        QR 码"
+
+#: admin/partials/wp-visualize-admin-display.php:102
+msgid "Your Registration Code"
+msgstr "输入升级注册代码"
+
+#: admin/partials/wp-visualize-admin-display.php:112
+msgid "Table header cell #11"
+msgstr "表标题单元格#11"
+
+#: admin/partials/wp-visualize-admin-display.php:113
+msgid "Table header cell #2"
+msgstr "表标题单元格#2"
+
+#: admin/partials/wp-visualize-admin-display.php:117
+msgid "Table Cell #1, with label"
+msgstr "带标签#1单元格"
+
+#: admin/partials/wp-visualize-admin-display.php:118
+msgid "Table Cell #2"
+msgstr "表格单元格#2"
+
+#: admin/partials/wp-visualize-admin-display.php:122
+msgid "Table Cell #3, with label and class"
+msgstr "带标签#3类的表单元格"
+
+#: admin/partials/wp-visualize-admin-display.php:123
+msgid "Table Cell #4"
+msgstr "表格单元格#4"
+
+#: admin/partials/wp-visualize-admin-display.php:126
+msgid "Table Cell #5, without label"
+msgstr "表格单元格#5，不带标签"
+
+#: admin/partials/wp-visualize-admin-display.php:127
+msgid "Table Cell #6"
+msgstr "表格单元格#6"
+
+#: admin/partials/wp-visualize-admin-display.php:138
+msgid ""
+"Upgrade now to add to Woocommerce products & create UNLIMITED shortcodes"
+msgstr ""
+
+#: admin/partials/wp-visualize-admin-display.php:141
+msgid "Let your customers see themselves with your products!"
+msgstr "让您的客户看到自己的产品！"
+
+#: admin/partials/wp-visualize-admin-display.php:142
+msgid "A MUST FOR EVERY BUSINESS WEBSITE"
+msgstr "每个商业网站的必去"
+
+#: admin/partials/wp-visualize-admin-display.php:143
+msgid ""
+"Engage your customers!! Make your website work for you with better \n"
+"                                            bounce-rates/seo and BOOST SALES"
+msgstr ""
+"吸引您的客户！！使您的网站更好地为你工作\n"
+"                                                反弹率/seo 和提升销售"
+
+#: admin/partials/wp-visualize-admin-display.php:144
+msgid "UPGRADE SPECIAL OFFER"
+msgstr "升级特别优惠"
+
+#: admin/partials/wp-visualize-admin-display.php:146
+msgid "LEARN MORE"
+msgstr "了解更多"
+
+#: admin/partials/wp-visualize-admin-display.php:154
+msgid "Add WP-Visualize to your Woocommerce products"
+msgstr "将 WP 可视化添加到您的 Woocommerce 产品"
+
+#: admin/partials/wp-visualize-admin-display.php:155
+msgid "To add WP-Visualise to your Woocommerce shop products"
+msgstr "将 WP 可视化添加到您的 WooCommerce 商店产品"
+
+#: admin/partials/wp-visualize-admin-display.php:156
+msgid "HOW TO SET UP"
+msgstr "如何设置"
+
+#: admin/partials/wp-visualize-admin-display.php:158
+msgid "Select a product to edit"
+msgstr "选择要编辑的产品"
+
+#: admin/partials/wp-visualize-admin-display.php:159
+msgid "Scroll down to"
+msgstr "向下滚动到"
+
+#: admin/partials/wp-visualize-admin-display.php:159
+msgid "General Options"
+msgstr "常规选项"
+
+#: admin/partials/wp-visualize-admin-display.php:159
+msgid "and you will see WP-Visualise"
+msgstr "你会看到 Wp 可视化"
+
+#: admin/partials/wp-visualize-admin-display.php:160
+msgid "Click to"
+msgstr "点击至"
+
+#: admin/partials/wp-visualize-admin-display.php:160
+msgid "select images"
+msgstr "选择图像"
+
+#: admin/partials/wp-visualize-admin-display.php:160
+msgid "transparent backgrounds look best"
+msgstr "透明背景看起来最好"
+
+#: admin/partials/wp-visualize-admin-display.php:161
+msgid "Click the"
+msgstr "点击"
+
+#: admin/partials/wp-visualize-admin-display.php:161
+msgid "Save button"
+msgstr "Save按钮"
+
+#: admin/partials/wp-visualize-admin-display.php:162
+msgid "AND THAT'S IT!!"
+msgstr "就是这样！！"
+
+#: admin/partials/wp-visualize-admin-display.php:171
+msgid "Link Generator & Qr Codes"
+msgstr "链路生成器和 Qr 代码"
+
+#: admin/partials/wp-visualize-admin-display.php:172
+msgid "A few tips on how to use this section"
+msgstr "有关如何使用本节的一些提示"
+
+#: admin/partials/wp-visualize-admin-display.php:174
+msgid ""
+"Trigger links are links that can open any page on your site paired with any "
+"of your Visualizations. E.g. You might like to run a campaign that has a "
+"specific group of products over a specific contact or shop page. Or you "
+"might just want a link to add to your social media or digital campaign. "
+"Maybe open a page with a coupon. The customer can visualize, then proceed to "
+"an order page to use that coupon!"
+msgstr ""
+"触发链接是可打开您网站上任何与任何可视化工具配对的页面的链接。例如，您可能希"
+"望在特定联系人或商店页面上运行具有特定产品组的产品的市场活动。或者，您可能只"
+"想将链接添加到您的社交媒体或数字广告系列。也许用优惠券打开一个页面。客户可以"
+"可视化，然后转到订单页面以使用该优惠券！"
+
+#: admin/partials/wp-visualize-admin-display.php:175
+msgid ""
+"On creating a QR-code, you might want to have a specific page, and also when "
+"the code is scanned, either have the visualization already opened, or just "
+"open your page containging a Visualize button"
+msgstr ""
+"在创建 QR 代码时，您可能希望具有特定页面，并且在扫描代码时，要么打开可视化效"
+"果，要么打开包含可视化按钮的页面"
+
+#: admin/partials/wp-visualize-admin-display.php:176
+msgid ""
+"Use this page to also create links that you can use on image links and your "
+"own buttons to launch Visualizations"
+msgstr "使用此页面还可以创建可用于图像链接和您自己的按钮以启动可视化功能的链接"
+
+#: admin/partials/wp-visualize-admin-display.php:177
+msgid ""
+"Trigger Attributes - Assign the class and id to any image or oject to "
+"trigger the Visualization window"
+msgstr ""
+
+#: admin/partials/wp-visualize-admin-display.php:180
+#: admin/partials/wp-visualize-admin-display.php:278
+msgid "Your ShortCodes"
+msgstr "您的短代码"
+
+#: admin/partials/wp-visualize-admin-display.php:183
+#: admin/partials/wp-visualize-admin-display.php:281
+msgid "Name"
+msgstr "名称"
+
+#: admin/partials/wp-visualize-admin-display.php:184
+msgid "Page URL (optional)"
+msgstr "页面 URL（可选）"
+
+#: admin/partials/wp-visualize-admin-display.php:185
+#: admin/partials/wp-visualize-admin-display.php:201
+msgid "Trigger Link"
+msgstr "触发链接"
+
+#: admin/partials/wp-visualize-admin-display.php:186
+#: admin/partials/wp-visualize-admin-display.php:202
+msgid "Open Visualization from QR code"
+msgstr "从 QR 码打开可视化"
+
+#: admin/partials/wp-visualize-admin-display.php:187
+#: admin/partials/wp-visualize-admin-display.php:203
+msgid "Download"
+msgstr "下载"
+
+#: admin/partials/wp-visualize-admin-display.php:188
+msgid "Trigger Attributes"
+msgstr "触发链接"
+
+#: admin/partials/wp-visualize-admin-display.php:199
+msgid "Product ID"
+msgstr "产品ID"
+
+#: admin/partials/wp-visualize-admin-display.php:200
+msgid "Page URL (*required)"
+msgstr "页面 URL（*必需）"
+
+#: admin/partials/wp-visualize-admin-display.php:200
+msgid "The URL below can be replaced with a permalink URL"
+msgstr "下面的 URL 可以替换为永久链接 URL"
+
+#: admin/partials/wp-visualize-admin-display.php:204
+msgid "Attributes"
+msgstr ""
+
+#: admin/partials/wp-visualize-admin-display.php:214
+msgid "Your Registration"
+msgstr "输入升级注册代码"
+
+#: admin/partials/wp-visualize-admin-display.php:215
+msgid "Update your registration code below."
+msgstr "输入升级注册代码"
+
+#: admin/partials/wp-visualize-admin-display.php:227
+msgid "SUBMIT REGISTRATION CODE"
+msgstr "提交注册代码"
+
+#: admin/partials/wp-visualize-admin-display.php:244
+msgid "Create a Shortcode"
+msgstr "创建短代码"
+
+#: admin/partials/wp-visualize-admin-display.php:245
+msgid ""
+"The following will create a 'shortcode' that can be pasted anywhere in "
+"your \n"
+"                                    WordPress site. When you open that page "
+"or post it will enable users to add their image \n"
+"                                    and then drag your nominated product "
+"images into place"
+msgstr ""
+"下面将创建一个\"短代码\"，可以粘贴在您的\n"
+"                                WordPress 网站。当您打开该页面或发布时，它将"
+"使用户能够添加其图像\n"
+"                                然后将指定产品图像拖动到位"
+
+#: admin/partials/wp-visualize-admin-display.php:248
+msgid "Remove Image Backgrounds (optional)"
+msgstr ""
+
+#: admin/partials/wp-visualize-admin-display.php:249
+msgid "Give your shortcode a name"
+msgstr "为您的短代码命名"
+
+#: admin/partials/wp-visualize-admin-display.php:250
+msgid "Select Images"
+msgstr "选择图像"
+
+#: admin/partials/wp-visualize-admin-display.php:253
+msgid "ADD OPTIONAL BUTTON"
+msgstr "添加可选按钮"
+
+#: admin/partials/wp-visualize-admin-display.php:254
+msgid "Buy Now"
+msgstr "立即购买"
+
+#: admin/partials/wp-visualize-admin-display.php:255
+msgid "Learn More"
+msgstr "了解更多"
+
+#: admin/partials/wp-visualize-admin-display.php:256
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: admin/partials/wp-visualize-admin-display.php:257
+msgid "Call Us"
+msgstr "打电话给我们"
+
+#: admin/partials/wp-visualize-admin-display.php:258
+msgid "Email Us"
+msgstr "电邮我们"
+
+#: admin/partials/wp-visualize-admin-display.php:259
+msgid "SMS Us"
+msgstr "短信我们"
+
+#: admin/partials/wp-visualize-admin-display.php:260
+msgid "Make a Booking"
+msgstr "预订"
+
+#: admin/partials/wp-visualize-admin-display.php:261
+msgid "Messenger Chat"
+msgstr "信使聊天"
+
+#: admin/partials/wp-visualize-admin-display.php:263
+msgid "Select a button type to display"
+msgstr "选择要显示的按钮类型"
+
+#: admin/partials/wp-visualize-admin-display.php:264
+msgid "Leave empty for no button"
+msgstr "无按钮时留空"
+
+#: admin/partials/wp-visualize-admin-display.php:266
+msgid "Create ShortCode"
+msgstr "创建短代码"
+
+#: admin/partials/wp-visualize-admin-display.php:272
+msgid ""
+"Free users can create 3 ShortCodes, each with 3 maximum images. To remove "
+"all limits"
+msgstr "免费用户可以创建 3 个短代码，每个代码最多包含 3 个图像。删除所有限制"
+
+#: admin/partials/wp-visualize-admin-display.php:272
+msgid "UPGRADE NOW"
+msgstr "现在升级"
+
+#: admin/partials/wp-visualize-admin-display.php:282
+msgid "Edit Images"
+msgstr "编辑图像"
+
+#: admin/partials/wp-visualize-admin-display.php:283
+msgid "Shortcode"
+msgstr "短代码"
+
+#: admin/partials/wp-visualize-admin-display.php:284
+msgid "Button Actions"
+msgstr "按钮操作"
+
+#: admin/partials/wp-visualize-admin-display.php:285
+msgid "Delete"
+msgstr "删除"
+
+#: public/class-wp-visualize-public.php:44
+#: public/class-wp-visualize-public.php:55
+msgid "Visualize"
+msgstr "可视化"
+
+#: public/class-wp-visualize-public.php:90
+msgid "add your photo"
+msgstr "添加照片"
+
+#: public/class-wp-visualize-public.php:91
+msgid "Instructions"
+msgstr "说明"
+
+#: public/class-wp-visualize-public.php:92
+#: public/class-wp-visualize-public.php:106
+msgid "Add your photo (button above)"
+msgstr "添加照片（按钮上方）"
+
+#: public/class-wp-visualize-public.php:93
+msgid "Tap thumbnail below to add"
+msgstr "点击下面的缩略图进行添加"
+
+#: public/class-wp-visualize-public.php:94
+msgid "To download screenshot click"
+msgstr "单击\"保存\"下载屏幕截图"
+
+#: public/class-wp-visualize-public.php:95
+msgid "Learn more"
+msgstr "了解更多"
+
+#: public/class-wp-visualize-public.php:97
+msgid "edit menu"
+msgstr "编辑菜单"
+
+#: public/class-wp-visualize-public.php:98
+msgid "scale"
+msgstr "比例"
+
+#: public/class-wp-visualize-public.php:99
+msgid "stretch"
+msgstr ""
+
+#: public/class-wp-visualize-public.php:100
+msgid "warp"
+msgstr "经"
+
+#: public/class-wp-visualize-public.php:101
+msgid "remove selected"
+msgstr ""
+
+#: public/class-wp-visualize-public.php:102
+msgid "hide frames"
+msgstr "隐藏帧"
+
+#: public/class-wp-visualize-public.php:103
+msgid "clear all"
+msgstr "清除"
+
+#: public/class-wp-visualize-public.php:104
+msgid "clone"
+msgstr ""
+
+#: public/class-wp-visualize-public.php:105
+msgid "SAVE"
+msgstr "保存"
+
+#: public/class-wp-visualize-public.php:107
+msgid "Tap image below & then drag, resize, warp, pinch, zoom!"
+msgstr "点击下面的图像，然后拖动，调整大小，扭曲，捏，缩放！"
+
+#: public/class-wp-visualize-public.php:108
+msgid "Tap item to show/hide menu"
+msgstr "点击项目以显示/隐藏菜单"
+
+#: public/class-wp-visualize-public.php:109
+msgid "buy now"
+msgstr "立即购买"
+
+#: public/class-wp-visualize-public.php:110
+msgid "learn more"
+msgstr "了解更多"
+
+#: public/class-wp-visualize-public.php:111
+msgid "contact us"
+msgstr "联系我们"
+
+#: public/class-wp-visualize-public.php:112
+msgid "call now"
+msgstr "立即 致电"
+
+#: public/class-wp-visualize-public.php:113
+msgid "sms/text now"
+msgstr "短信/短信"
+
+#: public/class-wp-visualize-public.php:114
+msgid "email us"
+msgstr "给我们发电子邮件"
+
+#: public/class-wp-visualize-public.php:115
+msgid "let\\'s chat"
+msgstr "让我们聊聊"
+
+#: public/class-wp-visualize-public.php:116
+msgid "make a booking"
+msgstr "预订"
+
+#: public/class-wp-visualize-public.php:117
+msgid "close"
+msgstr "关闭"
+
+#: public/class-wp-visualize-public.php:118
+msgid "powered by"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP-Visualize"
+msgstr "可视化"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://wpvisualize.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WP-Visualize lets your customers see themselves with your products. "
+"Potential customers can add their own image to their screen and then add "
+"your products, for example clothes and fashion, home renovations, floor "
+"coverings, furnishings, swimming pools or ... anything.. even tennis courts!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Bizetools"
+msgstr ""
+
+#~ msgid "Remove WP Visualize branding"
+#~ msgstr "删除 WP 可视化品牌"
+
+#~ msgid "Air Conditioning"
+#~ msgstr "空气调节"
+
+#~ msgid "Art"
+#~ msgstr "艺术"
+
+#~ msgid "Automotive"
+#~ msgstr "汽车"
+
+#~ msgid "Bathroom Renovations"
+#~ msgstr "浴室装修"
+
+#~ msgid "Body Art and Tattoos"
+#~ msgstr "身体艺术和纹身"
+
+#~ msgid "Building"
+#~ msgstr "建筑"
+
+#~ msgid "Ceiling Fans"
+#~ msgstr "吊扇"
+
+#~ msgid "Curtains and Blinds"
+#~ msgstr "窗帘和百叶窗"
+
+#~ msgid "Doors"
+#~ msgstr "门"
+
+#~ msgid "Drop Shipping"
+#~ msgstr "直运"
+
+#~ msgid "Electronics"
+#~ msgstr "电子产品"
+
+#~ msgid "Fashion - Accessories"
+#~ msgstr "时尚 - 配饰"
+
+#~ msgid "Fashion - Clothing"
+#~ msgstr "时尚 - 服装"
+
+#~ msgid "Fireplaces"
+#~ msgstr "壁炉"
+
+#~ msgid "Flooring"
+#~ msgstr "地板"
+
+#~ msgid "Gardening & Landscaping"
+#~ msgstr "园艺与园林绿化"
+
+#~ msgid "Hair Stylist"
+#~ msgstr "发型师"
+
+#~ msgid "Home Furnishings"
+#~ msgstr "家居装饰"
+
+#~ msgid "Home Services"
+#~ msgstr "家庭服务"
+
+#~ msgid "Interior Design"
+#~ msgstr "室内设计"
+
+#~ msgid "IT"
+#~ msgstr "它"
+
+#~ msgid "Jewellery"
+#~ msgstr "珠宝"
+
+#~ msgid "Kitchen Appliances"
+#~ msgstr "厨房用具"
+
+#~ msgid "Kitchen Renovations"
+#~ msgstr "厨房装修"
+
+#~ msgid "Marketing"
+#~ msgstr "营销"
+
+#~ msgid "Pet Accessories"
+#~ msgstr "宠物配件"
+
+#~ msgid "Pools and Spas"
+#~ msgstr "游泳池和水疗中心"
+
+#~ msgid "Renovation Services"
+#~ msgstr "装修服务"
+
+#~ msgid "Retail - Online only"
+#~ msgstr "零售 - 仅在线"
+
+#~ msgid "Retail - Online and Offline"
+#~ msgstr "零售 - 在线和离线"
+
+#~ msgid "Security Doors"
+#~ msgstr "安全门"
+
+#~ msgid "Solar"
+#~ msgstr "Solar"
+
+#~ msgid "Web Design"
+#~ msgstr "网页设计"
+
+#~ msgid "White Goods"
+#~ msgstr "白色家电"
+
+#~ msgid "Windows"
+#~ msgstr "Windows"
+
+#~ msgid "OTHER"
+#~ msgstr "其他"
+
+#~ msgid "Upgrade or join here"
+#~ msgstr "升级以保存更改"
+
+#~ msgid "Let's get started!"
+#~ msgstr "让我们开始吧！"
+
+#~ msgid "PAID USERS & FREE TRIAL USERS - Enter your Registration Code"
+#~ msgstr "仅付费用户 - 输入升级注册代码"
+
+#~ msgid ""
+#~ "Enter your Registration Code. (As emailed and displayed following your "
+#~ "payment or free trial request.)"
+#~ msgstr "输入升级注册代码。（如通过电子邮件发送并显示您的付款）"
+
+#~ msgid "or Upgrade now"
+#~ msgstr "现在升级"
+
+#~ msgid "to upgrade"
+#~ msgstr "如何升级？"
+
+#~ msgid "FREE USERS - Request your Activation code."
+#~ msgstr "免费或试用用户 - 请求您的激活码。"
+
+#~ msgid ""
+#~ "This applies ONLY if you are not in our FREE TRIAL & have not purchased "
+#~ "WP Visulalize. Your first step for free users is to activate WP "
+#~ "Visualize. Please enter your details below. we will immediately email "
+#~ "through your activation code. Activation helps us to ensure installations "
+#~ "are legitimate. We can also then provide important information and "
+#~ "updates to ensure that you get the most benefits from WP-Visualize."
+#~ msgstr ""
+#~ "你的第一步是激活。请在下面输入您的详细资料。我们将立即通过您的激活码发送电"
+#~ "子邮件。激活有助于我们确保安装是合法的。然后，我们还可以提供重要信息和更"
+#~ "新，以确保您从 WP 可视化中获得最大的好处。"
+
+#~ msgid ""
+#~ "Please complete below. Then check your email for your Activation Code. "
+#~ "Then copy and paste below to authenticate & activate your installation of "
+#~ "WP-Visualize."
+#~ msgstr ""
+#~ "请填写以下内容。然后检查您的电子邮件以确认激活码。然后复制并粘贴到下面以进"
+#~ "行身份验证并激活 WP 可视化的安装。"
+
+#~ msgid "Your Industry"
+#~ msgstr "您的行业"
+
+#~ msgid "SEND ACTIVATION CODE"
+#~ msgstr "发送激活码"
+
+#~ msgid ""
+#~ "We only ask for your industry to ensure any communications from us are "
+#~ "totally relevant to you. We NEVER provide, share or sell your information "
+#~ "to 3rd parties unless required by law."
+#~ msgstr ""
+#~ "我们只要求您的行业确保我们的任何通信与您完全相关。除非法律要求，否则我们绝"
+#~ "不会向第三方提供、共享或出售您的信息。"
+
+#~ msgid "Our Privacy Policy"
+#~ msgstr "我们的隐私政策"
+
+#~ msgid "Terms & Conditions"
+#~ msgstr "条款和条件"
+
+#~ msgid "FREE Users - Enter your Activation Code here"
+#~ msgstr "•在此处输入激活码"
+
+#~ msgid ""
+#~ "Once you retrieve your activation code from your email, copy it and paste "
+#~ "in the box below. Click Activate and you are set to go!"
+#~ msgstr ""
+#~ "从电子邮件中检索激活码后，请复制该代码并粘贴到下面的框中。点击激活，我们设"
+#~ "置去！"
+
+#~ msgid "ACTIVATE NOW"
+#~ msgstr "立即激活"
+
+#~ msgid ""
+#~ "Create shortcodes below to paste anywhere in your Wordpress site. "
+#~ "Customers can then add their image and integrate your products."
+#~ msgstr ""
+#~ "在下方创建短代码以粘贴 Wordpress 网站的任意位置。然后，客户可以添加其图像"
+#~ "并集成您的产品。"
+
+#~ msgid "Upgrade now! UNLIMITED Products AND ShortCodes"
+#~ msgstr "立即升级！无限产品和短代码"
+
+#~ msgid "BOOST SALES"
+#~ msgstr "提高销售额"
+
+#~ msgid ""
+#~ "Upgrade now and add unlimited products. Also create unlimited\n"
+#~ "                                    shortcodes. White label with your "
+#~ "logo and customizations The more customers interact and stay on your page "
+#~ "the better! Get your\n"
+#~ "                                    UNLIMITED licence now. ON SPECIAL "
+#~ "RIGHT NOW!"
+#~ msgstr ""
+#~ "立即升级并添加无限产品。也创建无限\n"
+#~ "                                    短代码。客户互动和留在您的页面上的客户"
+#~ "越多越好！获取您的\n"
+#~ "                                    无限许可证现在只有每月27美元或只有99美"
+#~ "元一年！"
+
+#~ msgid "UPGRADE ME"
+#~ msgstr "升级我"
+
+#~ msgid "QUICK TIPS"
+#~ msgstr "快速提示"
+
+#~ msgid ""
+#~ "Thank you for your support. To integrate to your Woocommerce products, "
+#~ "open a product\n"
+#~ "                                    to edit and select images. A button "
+#~ "will automatically appear on your product for\n"
+#~ "                                    your customers to engage."
+#~ msgstr ""
+#~ "感谢您的支持。要集成到您的 Woocommerce 产品中，请打开产品\n"
+#~ "                                    编辑和选择图像。您的产品将自动显示一个"
+#~ "按钮。\n"
+#~ "                                    您的客户参与。"
+
+#~ msgid "My Shortcodes"
+#~ msgstr "我的短代码"
+
+#~ msgid "My Products"
+#~ msgstr "我的产品"
+
+#~ msgid "resize"
+#~ msgstr "调整"
+
+#~ msgid "remove"
+#~ msgstr "移除"

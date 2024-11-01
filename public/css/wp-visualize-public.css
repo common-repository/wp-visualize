@@ -1,0 +1,574 @@
+/* Front end styles */
+
+/*
+ Colours:
+
+ Blue: #396a9b;
+
+ */
+
+ input[type=text], input[type=button] {
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
+}
+
+.wpv-instructions-title {
+    font-weight: bold;
+    font-size: 12px;
+    margin: 0 0 0 10px;
+    color: #fff;
+    letter-spacing: 0.05rem;
+    padding: 5px 0;
+}
+
+.wpv-learn-more > a {
+    color: #5d90c3;
+}
+
+.wpv-list-overflow {
+    overflow-x: scroll;
+}
+
+button.wpv-button, a.wpv-button {
+    padding: 8px;
+    background: #396a9b;
+    border: none;
+    color: #fff !important;
+    width: 150px !important;
+    max-width: 80% !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none !important;
+}
+
+.wpv-button > i {
+    margin-right: 5px;
+}
+
+button.wpv-button:hover {
+    text-decoration: none !important;
+}
+
+button.btn-primary, button.btn-primary:hover, button.wpv-cta, button.wpv-cta:hover {
+    color: #fff;
+}
+
+.wpv-modal {
+    position: fixed;
+    background: rgba(0, 0, 0, 0.85);
+    z-index: 99999;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 100% !important;
+    visibility: hidden;
+    color: #fff;
+}
+
+.wpv-modal.active {
+    visibility: visible !important;
+}
+
+.wpv-modal-content {
+    /*padding: 20px;*/
+}
+
+.resize-container {
+    border-top-right-radius: .25rem;
+    border-top-left-radius: .25rem;
+    text-align: center;
+    width: 100%;
+    background: rgba(0, 0, 0, 1);
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+}
+
+.wpv-actions-hero {
+    position: relative;
+}
+
+.wpv-actions {
+    text-align: center;
+    width: 100%;
+    background: rgb(29, 29, 29);
+    z-index: 10;
+    position: relative;
+}
+
+.wpv-action-btns {
+    position: absolute;
+    right: 0;
+    top: -46px;
+    z-index: 10;
+    height: auto !important;
+    width: auto !important;
+    display: flex;
+}
+
+.wpv-action-btns a {
+    cursor: pointer;
+    color: white;
+    text-decoration: none !important;
+    padding: 13px;
+    background: rgb(29, 29, 29);
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+}
+
+.wpv-action-btns span {
+    margin-left: 5px;
+}
+
+.wpv-tgl-carousel {
+    margin-left: 10px;
+}
+
+.wpv-tgl-carousel > span.dashicons {
+    font-size: 23px !important;
+    margin-left: 0 !important;
+}
+
+.wpv-actions-txt {
+    display: flex;
+    font-size: 12px;
+    justify-content: center;
+}
+
+.wpv-close {
+    position: absolute;
+    top: 4px;
+    right: 19px;
+    color: #fff;
+    z-index: 11;
+    font-size: 2em !important;
+    cursor: pointer;
+}
+
+.wpv-carousel-img {
+    position: relative;
+    z-index: 100 !important;
+    font-family: sans-serif !important;
+    border-radius: 8px !important;
+    min-height: 80px;
+    height: 13vh;
+    width: auto;
+    box-sizing: border-box;
+    display: inline;
+    border: 1px dotted rgba(255, 255, 255, 0.3);
+    padding: 5px;
+    max-height: 150px;
+    background: #fff;
+    cursor: pointer;
+}
+
+.wpv-btn-defaults {
+    display: flex;
+}
+
+.btn-cta.active {
+    display: flex;
+}
+
+.btn-cta.mobile {
+    display: none !important;
+    position: absolute;
+    z-index: 11;
+    font-size: 18px !important;
+    text-transform: capitalize;
+    background: transparent !important;
+    width: auto;
+    top: 1px;
+    right: 60px!important;
+    /*left: 50%;*/
+    white-space: nowrap;
+}
+
+.btn-cta.mobile > i {
+    font-size: 20px;
+    height: auto;
+    width: auto;
+    margin-right: 7px;
+    margin-top:7px;
+}
+
+
+#wpv_preview > .wpv-preview-img {
+    text-align: center;
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto;
+    position: relative;
+    z-index: 5;
+    object-fit: contain;
+}
+
+#wpv-list {
+    width: max-content;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    flex: 1;
+    border-top: 1px solid #fff;
+    min-width: 100%;
+    padding: 15px 0 15px 0;
+}
+
+#wpv-list li {
+    display: inline-block;
+    min-width: 100px;
+    padding: 0;
+    vertical-align: super;
+}
+
+.wpv-btn {
+    color: #fff;
+    font-size: 14px;
+    background: #396a9b;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: .5rem;
+    transition: all 0.1s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: max-content;
+    text-transform: capitalize;
+    font-weight: 500;
+    text-decoration: none !important;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10+ and Edge */
+    user-select: none; /* Standard syntax */
+}
+
+.wpv-btn > i {
+    font-size: 14px;
+    height: 14px;
+    width: 14px;
+    margin-right: 5px;
+}
+
+.wpv-btn:hover {
+    text-decoration: none !important;
+    opacity: 0.8;
+    transition: all 0.1s;
+}
+
+
+#wpv_add_preview_img {
+    display: none;
+    position: absolute;
+    z-index: -1;
+    top: 6px;
+    left: 0;
+    font-size: 15px;
+    color: rgb(153, 153, 153);
+}
+
+.wpv-file-add-container {
+    position: absolute;
+    padding: 5px;
+    z-index: 11;
+    width: max-content;
+    height: max-content;
+}
+
+.wpv-file-add-container > label {
+    margin-bottom: 2px;
+}
+
+.wpv-container {
+    height: max-content;
+    position: absolute;
+}
+
+
+.wpv-moveable {
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+    z-index: 20;
+}
+
+.wpv-moveable.active {
+    /*z-index: 1000;*/
+}
+
+.wpv-moveable img {
+    /*max-height: 100vh;*/
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+}
+
+.wpv-tmp-moveable {
+    position: relative;
+    z-index: 50;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.wpv-draggable, .wpv-resizable, .wpv-scalable, .wpv-rotatable, .wpv-origin, .wpv-warpable, .wpv-pinchable {
+    position: absolute;
+    left: 0;
+}
+
+button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #cd2653;
+    border: none;
+    border-radius: 0;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: 0.0333em;
+    line-height: 1.25;
+    margin: 0;
+    opacity: 1;
+    padding: 1.1em 1.44em;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: opacity 0.15s linear;
+}
+
+.wpv-resize-tgl-btn, .wpv-resize-tgl-btn, .wpv-resize-types {
+    min-width: 120px;
+    text-decoration: none !important;
+}
+
+.wpv-resize-tgl-btn:active, .wpv-resize-tgl-btn:hover {
+    text-decoration: none !important;
+}
+
+button.wpv-resize-tgl-btn {
+    font-size: 12px;
+    font-weight: 400;
+    transition: all 0.1s;
+}
+
+button.wpv-resize-tgl-btn:hover {
+    opacity: 0.8;
+    transition: all 0.1s;
+}
+
+.wpv-resize-types button {
+    padding: 5px;
+    text-decoration: none;
+    text-transform: uppercase !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    font-weight: 600;
+}
+
+.wpv-file-add-container .wpv-btn {
+    padding: 10px;
+}
+
+.wpv-resize-types {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background: transparent;
+    visibility: hidden;
+    opacity: 0;
+    transition: all 0.1s;
+    border-top: 1px solid #9ac7f1;
+    padding-top: 1px;
+    margin-top: 2px;
+    height: 0;
+}
+
+.wpv-resize-types > a {
+    width: 100%;
+    margin: 1px auto;
+}
+
+.wpv-resize-types.active {
+    visibility: visible;
+    opacity: 1;
+    height: auto;
+    transition: all 0.1s;
+    z-index: 1;
+}
+
+.wpv-tgl-button-view {
+    visibility: hidden;
+    opacity: 0;
+    width: 100%;
+    border-top: 1px solid #9ac7f1;
+    padding-top: 2px;
+}
+
+.wpv-tgl-button-view.active {
+    visibility: visible;
+    opacity: 1;
+}
+
+.wpv-resize-tgl-btn {
+    width: 100%;
+    text-transform: uppercase;
+}
+
+.wpv-msg {
+    position: absolute;
+    bottom: 50px;
+    right: 5px;
+    z-index: 999;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 3px 6px;
+}
+
+.wpv-label {
+    height: 1px;
+    width: 1px;
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    display: none !important;
+    z-index: -2;
+}
+
+.wpv-logo {
+    position: relative;
+    max-width: 80%;
+    margin: auto;
+}
+
+#wpv-instructions {
+    position: relative;
+    height: max-content;
+    width: max-content;
+    margin: auto;
+    color: #ffffff;
+    z-index: 999;
+}
+
+#wpv-instructions h3 {
+    margin: 10px auto;
+}
+
+#wpv-instructions > ol {
+    margin: 20px auto;
+}
+
+#wpv-instructions > ol > li {
+    display: flex;
+}
+
+#wpv-instructions > ol > li > span {
+    margin-right: 5px;
+    min-width: 15px;
+}
+
+.wpv-preview-logo {
+    max-height: 120px;
+    user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    pointer-events: none;
+}
+
+.wpv-powered-by {
+    position: absolute;
+    bottom: 50px;
+    left: 10px;
+    max-height: 120px;
+    font-size: 14px;
+    color: #5d90c3;
+    text-decoration: none !important;
+}
+
+.wpv-powered-by > img {
+    max-height: 80px;
+}
+
+#wpv-footer-btns {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    right: 0;
+    text-align: right;
+    white-space: nowrap;
+    z-index: 999;
+}
+
+#wpv-footer-btns > button {
+    margin: 0 5px;
+}
+
+.wpv-footer-btn-styling {
+    display: flex;
+    justify-content: flex-end;
+    min-width: 200px;
+}
+
+.wpv-footer-btn-styling > a.wpv-btn {
+    margin: 0 5px;
+}
+
+.wpv-carousel-container {
+    display: flex;
+    color: #fff;
+    flex-direction: column;
+    font-size: 16px;
+    margin: 0 10px;
+    width: fit-content;
+}
+
+.wpv-carousel-container img {
+    cursor: pointer;
+}
+
+.wpv-carousel-container > span {
+    display: flex;
+    color: #fff !important;
+    text-transform: capitalize;
+}
+
+.wpv-carousel-container > span > span {
+    flex-grow: 1;
+    width: 0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.wpv-resize-btn > img, .wpv-icon-styling {
+    height: 20px;
+    width: 20px;
+}
+
+@media (max-width: 510px) {
+
+    .btn-cta {
+        display: none !important;
+    }
+
+    .btn-cta.mobile.active{
+        display: inline-flex!important;
+        align-content: center!important;
+    }
+
+ .btn-cta.mobile > i {
+    margin-top:0;
+    }   
+
+}
+
+@media (max-width: 480px) {
+
+    .wpv-powered-by > img {
+        max-height: 48px;
+    }
+
+}

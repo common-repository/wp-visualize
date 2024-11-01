@@ -1,0 +1,1468 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Visualize\n"
+"POT-Creation-Date: 2020-12-16 13:19+1030\n"
+"PO-Revision-Date: 2020-12-16 13:20+1030\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-visualize.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-wp-visualize-admin.php:56
+msgid "Select"
+msgstr "Auswählen"
+
+#: admin/class-wp-visualize-admin.php:56
+msgid "Images"
+msgstr "Bilder"
+
+#: admin/class-wp-visualize-admin.php:57
+msgid "Clear"
+msgstr "Zurücksetzen"
+
+#: admin/class-wp-visualize-admin.php:59
+msgid ""
+"Select images with transparent backgrounds for best results. \n"
+"                    Then click Save WP-Visualize. WP-Visualize will be "
+"available for this product. To remove from this product, \n"
+"                    click clear."
+msgstr ""
+"Wählen Sie Bilder mit transparenten Hintergründen aus, um optimale "
+"Ergebnisse zu erzielen. \n"
+"                Klicken Sie dann auf WP-Visualize speichern. WP-Visualize "
+"ist für dieses Produkt verfügbar. Um es aus diesem Produkt zu entfernen, \n"
+"                Klicken Sie auf löschen."
+
+#: admin/class-wp-visualize-admin.php:116 admin/partials/customize.php:37
+msgid "Customize"
+msgstr "Anpassen"
+
+#: admin/class-wp-visualize-admin.php:118
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: admin/class-wp-visualize-admin.php:120
+msgid "Getting Started"
+msgstr "Erste Schritte"
+
+#: admin/class-wp-visualize-admin.php:127
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/partials/customize.php:28 admin/partials/register.php:23
+#: admin/partials/wp-visualize-admin-display.php:32
+msgid "WP-Visualize for WordPress"
+msgstr "WP-Visualize für WordPress"
+
+#: admin/partials/customize.php:32
+msgid "Customizations are only available to paid members."
+msgstr "Anpassungen sind nur für bezahlte Mitglieder verfügbar."
+
+#: admin/partials/customize.php:33
+msgid "Upgrade now"
+msgstr "Jetzt upgraden"
+
+#: admin/partials/customize.php:34 admin/partials/customize.php:73
+#: admin/partials/help.php:140 admin/partials/help.php:160
+#: admin/partials/help.php:163 admin/partials/wp-visualize-admin-display.php:55
+#: admin/partials/wp-visualize-admin-display.php:78
+#: admin/partials/wp-visualize-admin-display.php:155
+#: admin/partials/wp-visualize-admin-display.php:158
+#: public/class-wp-visualize-public.php:96
+msgid "CLICK HERE"
+msgstr "HIER KLICKEN"
+
+#: admin/partials/customize.php:38
+msgid "Background Logo"
+msgstr "Hintergrund-Logo"
+
+#: admin/partials/customize.php:39
+msgid "Add your own branding to the Visualize screen."
+msgstr "Fügen Sie dem Visualize-Bildschirm ein eigenes Branding hinzu."
+
+#: admin/partials/customize.php:43
+msgid "Selected logo for screen"
+msgstr "Ausgewähltes Logo für Bildschirm"
+
+#: admin/partials/customize.php:45
+msgid "Select Logo"
+msgstr "Logo auswählen"
+
+#: admin/partials/customize.php:46
+msgid "Clear Logo"
+msgstr "Logo löschen"
+
+#: admin/partials/customize.php:49
+msgid "Screen Background Color"
+msgstr "Bildschirmhintergrundfarbe"
+
+#: admin/partials/customize.php:50
+msgid "Select the background color of your Visualize screen."
+msgstr "Wählen Sie die Hintergrundfarbe des Visualize-Bildschirms aus."
+
+#: admin/partials/customize.php:55
+msgid "Button Color"
+msgstr "Button Farbe"
+
+#: admin/partials/customize.php:56
+msgid ""
+"Select the background color of the Visualize button displayed on your page."
+msgstr ""
+"Wählen Sie die Hintergrundfarbe der Schaltfläche \"Visualisieren\" aus, die "
+"auf der Seite angezeigt wird."
+
+#: admin/partials/customize.php:60
+msgid "Button font size"
+msgstr "Button-Aktionen"
+
+#: admin/partials/customize.php:65
+msgid "Show Powered By Visualize"
+msgstr "Show Powered By Visualize"
+
+#: admin/partials/customize.php:72
+msgid "Upgrade to save changes"
+msgstr "Upgrade zum Speichern von Änderungen"
+
+#: admin/partials/customize.php:76
+msgid "SAVE CHANGES"
+msgstr "ÄNDERUNGEN SPEICHERN"
+
+#: admin/partials/help.php:24
+msgid "Fast Start Tips"
+msgstr "Schnelle Starttipps"
+
+#: admin/partials/help.php:31
+msgid "Get up to speed FAST! Watch our Fast Start Video"
+msgstr ""
+"Machen Sie sich auf den Laufenden FAST! Sehen Sie sich unser Fast Start "
+"Video an"
+
+#: admin/partials/help.php:36
+msgid "For best results remove image backgrounds"
+msgstr "Für optimale Ergebnisse bildhintergrundentfernen"
+
+#: admin/partials/help.php:37
+msgid ""
+"As mentioned in our video, remove the backgrounds from your images. It's "
+"instant and using the following link is simple!"
+msgstr ""
+"Wie in unserem Video erwähnt, entfernen Sie die Hintergründe von Ihren "
+"Bildern. Es ist sofort und die Verwendung des folgenden Links ist einfach!"
+
+#: admin/partials/help.php:37
+msgid "CLICK HERE TO REMOVE BACKGROUNDS FROM IMAGES"
+msgstr "KLICKEN SIE HIER, UM HINTERGRUNDVON IMAGES ZU REMOVE"
+
+#: admin/partials/help.php:40
+msgid "What's a shortcode?"
+msgstr "Was ist ein Shortcode?"
+
+#: admin/partials/help.php:43
+msgid ""
+"Shortcodes in WordPress are little bits of code that, when pasted in your "
+"webpages, can add extensive functionality. In WP-Visualize, shortcodes are "
+"created on the"
+msgstr ""
+"Shortcodes in WordPress sind kleine Codestücke, die, wenn sie in Ihre "
+"Webseiten eingefügt werden, umfangreiche Funktionen hinzufügen können. In WP-"
+"Visualize werden Shortcodes auf der"
+
+#: admin/partials/help.php:43
+msgid "main WP-Visualize page"
+msgstr "Hauptseite WP-Visualize"
+
+#: admin/partials/help.php:45
+msgid "How to create a WP Visualize shortcode."
+msgstr "Erstellen eines WP Visualize-Shortcodes."
+
+#: admin/partials/help.php:48
+msgid "Enter a shortcode name in the box provided."
+msgstr "Geben Sie einen Shortcodenamen in das bereitgestellte Feld ein."
+
+#: admin/partials/help.php:49
+msgid ""
+"Click 'Select Images' and either add or select from already uploaded images. "
+"Once selected, click 'Choose Images' button on the bottom right of the page."
+"<br>For best results we strongly recommend to use images with the "
+"backgrounds removed."
+msgstr ""
+"Klicken Sie auf 'Bilder auswählen' und fügen Sie aus bereits hochgeladenen "
+"Bildern hinzu oder wählen Sie sie aus. Sobald Sie ausgewählt sind, klicken "
+"Sie unten rechts auf der Seite auf die Schaltfläche \"Bilder auswählen\"."
+"<br>Für optimale Ergebnisse empfehlen wir dringend, Bilder mit entfernten "
+"Hintergründen zu verwenden."
+
+#: admin/partials/help.php:49
+msgid "Use this for best background removal results"
+msgstr "Verwenden Sie dies für beste Hintergrundentfernungsergebnisse"
+
+#: admin/partials/help.php:49
+msgid "in seconds."
+msgstr "in Sekunden."
+
+#: admin/partials/help.php:50
+msgid "Then click the 'Create Shortcode' button."
+msgstr "Klicken Sie dann auf die Schaltfläche \"Shortcode erstellen\"."
+
+#: admin/partials/help.php:53
+msgid "Your shortcode is created and now appears on your list of shortcodes."
+msgstr ""
+"Ihr Shortcode wird erstellt und wird nun in der Shortcodeliste angezeigt."
+
+#: admin/partials/help.php:55
+msgid "To Add your shortcode to a webpage."
+msgstr "So fügen Sie Ihren Shortcode zu einer Webseite hinzu."
+
+#: admin/partials/help.php:58
+msgid "Click the copy icon next to your shortcode to copy the shortcode."
+msgstr ""
+"Klicken Sie auf das Kopiersymbol neben Ihrem Shortcode, um den Shortcode zu "
+"kopieren."
+
+#: admin/partials/help.php:59
+msgid ""
+"Open any page or post in your website and paste the code. Then click save"
+msgstr ""
+"Öffnen Sie eine beliebige Seite oder Posten in Ihrer Website und fügen Sie "
+"den Code ein. Klicken Sie dann auf Speichern"
+
+#: admin/partials/help.php:60
+msgid "You have now successfully integrated WP-Visualize to that page or post."
+msgstr ""
+"Sie haben NUN WP-Visualize erfolgreich auf dieser Seite oder diesem Beitrag "
+"integriert."
+
+#: admin/partials/help.php:62
+msgid ""
+"View that page or post and you will see a visualize button where the "
+"shortcode was pasted. Clicking that button will launch WP-Visualize."
+msgstr ""
+"Zeigen Sie diese Seite oder diesen Beitrag an, und Sie sehen eine "
+"Visualisierungsschaltfläche, auf der der Shortcode eingefügt wurde. Wenn Sie "
+"auf diese Schaltfläche klicken, wird WP-Visualize gestartet."
+
+#: admin/partials/help.php:67
+msgid "How to add Visualizer to Products"
+msgstr "Hinzufügen von Visualizer zu Produkten"
+
+#: admin/partials/help.php:69
+msgid ""
+"WP-Visualize is fully integrated with Woocommerce so long as you have "
+"upgraded to a paid Member. If not"
+msgstr ""
+"WP-Visualize ist vollständig in Woocommerce integriert, solange Sie ein "
+"Upgrade auf ein kostenpflichtiges Mitglied durchgeführt haben. Wenn nicht"
+
+#: admin/partials/help.php:69
+msgid "UPGRADE for this feature"
+msgstr "UPGRADE für diese Funktion"
+
+#: admin/partials/help.php:71
+msgid "To add WP-Visualize to a product:"
+msgstr "So fügen Sie WP-Visualize zu einem Produkt hinzu:"
+
+#: admin/partials/help.php:74
+msgid "open a product for edit"
+msgstr "Öffnen eines Produkts zur Bearbeitung"
+
+#: admin/partials/help.php:75
+msgid "scroll down to the general options."
+msgstr "scrollen Sie nach unten zu den allgemeinen Optionen."
+
+#: admin/partials/help.php:76
+msgid "Click the 'Select WP-Visualize Images' button."
+msgstr "Klicken Sie auf die Schaltfläche \"Wp-Bilder auswählen\"."
+
+#: admin/partials/help.php:77
+msgid ""
+"To select images for WP-Visualizer for this product, either add or select "
+"from already uploaded images."
+msgstr ""
+"Um Bilder für WP-Visualizer für dieses Produkt auszuwählen, fügen Sie aus "
+"bereits hochgeladenen Bildern hinzu oder wählen Sie sie aus."
+
+#: admin/partials/help.php:78
+msgid ""
+"Once images are selected, click 'Choose Images' button on the bottom right "
+"of the page to close the media library."
+msgstr ""
+"Sobald Bilder ausgewählt sind, klicken Sie unten rechts auf der Seite auf "
+"\"Bilder auswählen\", um die Medienbibliothek zu schließen."
+
+#: admin/partials/help.php:82
+msgid ""
+"WP-Visualize is now added to this product and a Visualize button now appears "
+"on that product's page."
+msgstr ""
+"WP-Visualize wird nun zu diesem Produkt hinzugefügt, und auf der Seite "
+"dieses Produkts wird jetzt eine Schaltfläche \"Visualisieren\" angezeigt."
+
+#: admin/partials/help.php:83
+msgid ""
+"To remove WP-Visualize from this product, return to the product edit page "
+"and click the clear button in the WP-Visualize section of general settings."
+msgstr ""
+"Um WP-Visualize aus diesem Produkt zu entfernen, kehren Sie zur Seite "
+"Produktbearbeitung zurück und klicken Sie auf die Schaltfläche \"Löschen\" "
+"im Abschnitt WP-Visualize der allgemeinen Einstellungen."
+
+#: admin/partials/help.php:87
+msgid "Use Examples"
+msgstr "Verwenden von Beispielen"
+
+#: admin/partials/help.php:89
+msgid ""
+"There are limitless possibilities on how you can boost business with WP-"
+"Visualize"
+msgstr ""
+"Es gibt unbegrenzte Möglichkeiten, wie Sie das Geschäft mit WP-Visualize "
+"steigern können"
+
+#: admin/partials/help.php:90
+msgid "Below are just a few examples."
+msgstr "Im Folgenden finden Sie nur einige Beispiele."
+
+#: admin/partials/help.php:91
+msgid "Air Conditioning Evap Units"
+msgstr "Klimaanlage Evap-Einheiten"
+
+#: admin/partials/help.php:92
+msgid "Air Conditioning Inverters"
+msgstr "Klimaanlage Wechselrichter"
+
+#: admin/partials/help.php:93
+msgid "Auto - Accessories"
+msgstr "Auto - Zubehör"
+
+#: admin/partials/help.php:94
+msgid "Air Conditioning Splits"
+msgstr "Klimaanlage Splits"
+
+#: admin/partials/help.php:95
+msgid "Auto - Wheels & Tyres"
+msgstr "Auto - Räder & Reifen"
+
+#: admin/partials/help.php:96
+msgid "Carpets & Flooring"
+msgstr "Teppiche & Bodenbeläge"
+
+#: admin/partials/help.php:97
+msgid "Curtains & Blinds"
+msgstr "Vorhänge & Jalousien"
+
+#: admin/partials/help.php:98
+msgid "Dresses"
+msgstr "Kleider"
+
+#: admin/partials/help.php:99
+msgid "Fencing"
+msgstr "Einzäunung"
+
+#: admin/partials/help.php:100
+msgid "Furniture"
+msgstr "Möbel"
+
+#: admin/partials/help.php:101
+msgid "Garage Doors"
+msgstr "Garagentore"
+
+#: admin/partials/help.php:102
+msgid "Garages & Sheds"
+msgstr "Garagen & Schuppen"
+
+#: admin/partials/help.php:103
+msgid "Glasses"
+msgstr "Gläser"
+
+#: admin/partials/help.php:104
+msgid "Hair Styles"
+msgstr "Frisuren"
+
+#: admin/partials/help.php:105
+msgid "Hats"
+msgstr "Hüte"
+
+#: admin/partials/help.php:106
+msgid "Heaters & Fireplaces"
+msgstr "Heizungen & Kamine"
+
+#: admin/partials/help.php:107
+msgid "Electrical"
+msgstr "Elektrisch"
+
+#: admin/partials/help.php:108
+msgid "Houses & Properties"
+msgstr "Häuser & Immobilien"
+
+#: admin/partials/help.php:109
+msgid "Kitchens & Cabinetry"
+msgstr "Küchen & Schränke"
+
+#: admin/partials/help.php:110
+msgid "Lighting"
+msgstr "Beleuchtung"
+
+#: admin/partials/help.php:111
+msgid "Patio Doors"
+msgstr "Terrassentüren"
+
+#: admin/partials/help.php:112
+msgid "Pergolas & Gazebos"
+msgstr "Pergolas & Gazebos"
+
+#: admin/partials/help.php:113
+msgid "Plants & Trees"
+msgstr "Pflanzen"
+
+#: admin/partials/help.php:114
+msgid "Roller Shutters"
+msgstr "Rollläden"
+
+#: admin/partials/help.php:115
+msgid "Screen Doors"
+msgstr "Bildschirmtüren"
+
+#: admin/partials/help.php:116
+msgid "Shirts"
+msgstr "Hemden"
+
+#: admin/partials/help.php:117
+msgid "Swimming Pools"
+msgstr "Schwimmbäder"
+
+#: admin/partials/help.php:118
+msgid "Tennis Courts"
+msgstr "Tennisplätze"
+
+#: admin/partials/help.php:119
+msgid "Whitegoods (eg. TVs Fridges)"
+msgstr "Whitegoods (z. B. Fernseher Kühlschränke)"
+
+#: admin/partials/help.php:131
+msgid "How to add Images"
+msgstr "So fügen Sie Bilder hinzu"
+
+#: admin/partials/help.php:134
+msgid ""
+"Images are added to WP-Visualize By clicking the 'Select Images' button."
+msgstr ""
+"Bilder werden zu WP-Visualize hinzugefügt, indem Sie auf die Schaltfläche "
+"\"Bilder auswählen\" klicken."
+
+#: admin/partials/help.php:135
+msgid ""
+"To edit your shortcode selection at anytime, click the edit Images button in "
+"your list of shortcodes. To edit your product images, open your product edit "
+"page and click the Select Images button."
+msgstr ""
+"Um Ihre Shortcode-Auswahl jederzeit zu bearbeiten, klicken Sie in der "
+"Shortcodes-Liste auf die Schaltfläche Bilder bearbeiten. Um Ihre "
+"Produktbilder zu bearbeiten, öffnen Sie die Produktbearbeitungsseite und "
+"klicken Sie auf die Schaltfläche Bilder auswählen."
+
+#: admin/partials/help.php:136
+msgid ""
+"Make your selection and then close the Medial Library by clicking the "
+"'Choose Images' button on the bottom right of the screen."
+msgstr ""
+"Treffen Sie Ihre Auswahl, und schließen Sie dann die Medialbibliothek, indem "
+"Sie unten rechts auf dem Bildschirm auf die Schaltfläche \"Bilder auswählen"
+"\" klicken."
+
+#: admin/partials/help.php:140
+msgid ""
+"For best and easiest results remove the background from your product images. "
+"Transparent backgrounds look best!"
+msgstr ""
+"Um optimale und einfachste Ergebnisse zu erzielen, entfernen Sie den "
+"Hintergrund aus Ihren Produktbildern. Transparente Hintergründe sehen am "
+"besten aus!"
+
+#: admin/partials/help.php:140
+msgid "to remove backgrounds from your images."
+msgstr ", um Hintergründe aus Ihren Bildern zu entfernen."
+
+#: admin/partials/help.php:144
+msgid "Placing Shortcodes"
+msgstr "Platzieren von Shortcodes"
+
+#: admin/partials/help.php:148
+msgid ""
+"Copy your shortcode from your 'Shortcodes List' on your main shortcodes "
+"page.  Each Shortcode can be used multiple times on different pages."
+msgstr ""
+"Kopieren Sie Ihren Shortcode aus Ihrer \"Shortcodes-Liste\" auf Ihre Haupt-"
+"Kurzwahlseite.  Jeder Shortcode kann mehrmals auf verschiedenen Seiten "
+"verwendet werden."
+
+#: admin/partials/help.php:149
+msgid ""
+"Once copied, open the page or post edit screen to integrate WP-Visualize."
+msgstr ""
+"Nach dem Kopieren öffnen Sie die Seite oder posten Sie den "
+"Bearbeitungsbildschirm, um WP-Visualize zu integrieren."
+
+#: admin/partials/help.php:151
+msgid ""
+"Paste the shortcode wherever you would like the WP-Visualize button to "
+"appear."
+msgstr ""
+"Fügen Sie den Shortcode überall dort ein, wo die Schaltfläche WP-Visualize "
+"angezeigt werden soll."
+
+#: admin/partials/help.php:152
+msgid "Save the page or post."
+msgstr "Speichern Sie die Seite oder den Beitrag."
+
+#: admin/partials/help.php:154
+msgid "Job Done!! Your shortcode is now integrated."
+msgstr "Job fertig!! Ihr Shortcode ist nun integriert."
+
+#: admin/partials/help.php:159
+msgid "Is there an Affiliate Program?"
+msgstr "Gibt es ein Affiliate-Programm?"
+
+#: admin/partials/help.php:160
+msgid ""
+"Yes! We pay generous recurring commisions for those who help promote WP-"
+"Visualize to others. For details about our Affiliate Program or to get "
+"started"
+msgstr ""
+"Ja! Wir zahlen großzügige wiederkehrende Kommissionen für diejenigen, die "
+"helfen, WP-Visualize zu anderen zu fördern. Für Details über unser Affiliate-"
+"Programm oder um loszulegen"
+
+#: admin/partials/help.php:162
+msgid "Need Support?"
+msgstr "Benötigen Sie Hilfe?"
+
+#: admin/partials/help.php:163
+msgid "Premium Support is available to upgraded members via"
+msgstr "Premium-Support steht upgradenden Mitgliedern über"
+
+#: admin/partials/register.php:30
+msgid "Current Status: You are currently using the free version"
+msgstr "Aktueller Status: Sie verwenden derzeit die kostenlose Version"
+
+#: admin/partials/register.php:33
+msgid "Thank you: You are currently upgraded"
+msgstr "Danke: Sie sind derzeit aktualisiert"
+
+#: admin/partials/register.php:36
+msgid ""
+"Thank you: You are\n"
+"                    currently upgraded"
+msgstr ""
+"Vielen Dank: Sie sind\n"
+"                    derzeit aktualisiert"
+
+#: admin/partials/register.php:44
+msgid "Why upgrade with WP-Visualize?"
+msgstr "Warum ein Upgrade mit WP-Visualize?"
+
+#: admin/partials/register.php:46
+msgid "Add Unlimited images of your products and services"
+msgstr "Unbegrenzte Bilder Ihrer Produkte und Dienstleistungen hinzufügen"
+
+#: admin/partials/register.php:47
+msgid "White label to your brand"
+msgstr ""
+
+#: admin/partials/register.php:48
+msgid "Integrate Unlimited Woocommerce products"
+msgstr "Integrieren Sie Unlimited Woocommerce Produkte"
+
+#: admin/partials/register.php:49
+msgid "Create unlimited shortcodes within your website"
+msgstr "Erstellen Sie unbegrenzte Shortcodes auf Ihrer Website"
+
+#: admin/partials/register.php:50
+msgid "Customize buttons and logos"
+msgstr "Anpassen von Schaltflächen und Logos"
+
+#: admin/partials/register.php:51
+msgid "Access to Premium support & features"
+msgstr "Zugang zu Premium-Support & -Funktionen"
+
+#: admin/partials/register.php:54
+msgid "How to Upgrade?"
+msgstr "Wie kann ich ein Upgrade durchführen?"
+
+#: admin/partials/register.php:55
+msgid ""
+"Click the button below and become an Upgraded Member. As an Upgraded Member "
+"you help us to maintain and extend the\n"
+"                capabilities of WP-Visualiser while getting SIGNIFICANT "
+"features and benefits. On upgrading, we will email your\n"
+"                upgrade registration code. Copy that code and enter below on "
+"this page."
+msgstr ""
+"Klicken Sie auf die Schaltfläche unten und werden Sie ein aktualisiertes "
+"Mitglied. Als aufgewertetes Mitglied helfen Sie uns, die\n"
+"                WP-Visualiser, während sie signifikante Funktionen und "
+"Vorteile erhalten. Nach dem Upgrade senden wir Ihnen eine E-Mail\n"
+"                Aktualisierungsregistrierungscode. Kopieren Sie diesen Code, "
+"und geben Sie unten auf dieser Seite ein."
+
+#: admin/partials/register.php:62
+msgid "Enter your Upgrade Registration Code"
+msgstr "Geben Sie Ihren Upgrade-Registrierungscode ein"
+
+#: admin/partials/register.php:64
+#: admin/partials/wp-visualize-admin-display.php:218
+msgid "Enter your WP-Visualizer registration code"
+msgstr "Geben Sie Ihren WP-Visualizer-Registrierungscode ein"
+
+#: admin/partials/register.php:69
+msgid "SAVE UPGRADE REGISTRATION CODE"
+msgstr "SPEICHERN DES UPGRADE-REGISTRIERUNGSCODES"
+
+#: admin/partials/wp-visualize-admin-display.php:44
+msgid "Welcome to WP Visualize."
+msgstr "Was ist WP-Visualize."
+
+#: admin/partials/wp-visualize-admin-display.php:48
+msgid ""
+"WP-Visualize is revolutionary, letting your customers see themselves with "
+"your products and services without the need for apps and 3D images. It's not "
+"just for your website. Let customers directly visualize from from Social "
+"Media, Digital Advertising and even QR-codes, in store or in the window when "
+"youre closed!. And because customers are engaged far, far longer, your "
+"'bounce rate' can massively decrease and your SEO goes up! Your brand gets "
+"shared more often and can sales improve dramatically. WP-Visualize works "
+"within Internet browsers on phones, tablets, laptops and desktops."
+msgstr ""
+"WP-Visualize ist revolutionär und lässt Ihre Kunden sich selbst mit Ihren "
+"Produkten und Dienstleistungen sehen. Es ist nicht nur für Ihre Website. "
+"Lassen Sie Kunden direkt von Social Media, Digital Advertising und sogar QR-"
+"Codes, im Laden oder im Fenster visualisieren, wenn Sie geschlossen!. Und "
+"weil Kunden weit, viel länger engagiert sind, kann Ihre \"Bounce Rate\" "
+"massiv sinken und Ihre SEO steigt! Ihre Marke wird häufiger geteilt und kann "
+"den Umsatz dramatisch verbessern. Keine teuren Apps für mehrere Plattformen "
+"oder spezielle Downloads, die von Ihren Kunden benötigt werden. WP-Visualize "
+"funktioniert in Internetbrowsern auf Smartphones, Tablets, Laptops und "
+"Desktops."
+
+#: admin/partials/wp-visualize-admin-display.php:50
+msgid "Create shortcodes below to paste anywhere throughout your website."
+msgstr "Erstellen Sie unbegrenzte Shortcodes auf Ihrer Website."
+
+#: admin/partials/wp-visualize-admin-display.php:54
+msgid "Just getting started?"
+msgstr "Ich fange jetzt an?"
+
+#: admin/partials/wp-visualize-admin-display.php:55
+msgid "to watch our FAST-START video and get up to speed ... FAST!"
+msgstr ""
+"um unser FAST-START Video zu sehen und sich auf den Weg zu machen ... "
+"schnell!"
+
+#: admin/partials/wp-visualize-admin-display.php:60
+msgid "Let us help you"
+msgstr ""
+
+#: admin/partials/wp-visualize-admin-display.php:62
+msgid ""
+"We get to hear exactly whats working best for others and would love to help "
+"you get great results too. Share your name and email and let us provide "
+"specific tips to help you achieve the best results possible. We don't spam "
+"and any information we pass on will be specific and valuable"
+msgstr ""
+
+#: admin/partials/wp-visualize-admin-display.php:66
+msgid "Your name"
+msgstr "Ihr Name"
+
+#: admin/partials/wp-visualize-admin-display.php:68
+msgid "Your email"
+msgstr "Ihre E-Mail"
+
+#: admin/partials/wp-visualize-admin-display.php:71
+msgid "SEND ME FREE TIPS & HACKS"
+msgstr ""
+
+#: admin/partials/wp-visualize-admin-display.php:76
+msgid "We would really appreciate your support."
+msgstr "Wir würden uns über Ihre Unterstützung sehr freuen."
+
+#: admin/partials/wp-visualize-admin-display.php:76
+msgid ""
+"Please help us keep developing & improving WP-Visualize by showing your "
+"support a with a 5 Star review. It really helps"
+msgstr ""
+"Bitte helfen Sie uns weiter zu entwickeln und zu verbessern WP-Visualize, "
+"indem Sie Ihre Unterstützung mit einem 5-Sterne-Bewertung zeigen. Es hilft "
+"wirklich"
+
+#: admin/partials/wp-visualize-admin-display.php:78
+msgid "Thank you"
+msgstr "Vielen Dank"
+
+#: admin/partials/wp-visualize-admin-display.php:95
+msgid "Your Shortcodes"
+msgstr "Ihre ShortCodes"
+
+#: admin/partials/wp-visualize-admin-display.php:97
+#: admin/partials/wp-visualize-admin-display.php:196
+msgid "Your Products"
+msgstr "Deine Produkte"
+
+#: admin/partials/wp-visualize-admin-display.php:99
+msgid ""
+"Your Link Generator & \n"
+"                        QR Codes"
+msgstr ""
+"Link Generator & \n"
+"                        QR-Codes"
+
+#: admin/partials/wp-visualize-admin-display.php:102
+msgid "Your Registration Code"
+msgstr "Geben Sie Ihren Upgrade-Registrierungscode ein"
+
+#: admin/partials/wp-visualize-admin-display.php:112
+msgid "Table header cell #11"
+msgstr "Tabellenkopfzelle #11"
+
+#: admin/partials/wp-visualize-admin-display.php:113
+msgid "Table header cell #2"
+msgstr "Tabellenkopfzelle #2"
+
+#: admin/partials/wp-visualize-admin-display.php:117
+msgid "Table Cell #1, with label"
+msgstr "Tabellenzellen#1 mit Etikett"
+
+#: admin/partials/wp-visualize-admin-display.php:118
+msgid "Table Cell #2"
+msgstr "Tabellenzellen#2"
+
+#: admin/partials/wp-visualize-admin-display.php:122
+msgid "Table Cell #3, with label and class"
+msgstr "Tabellenzelle #3, mit Beschriftung und Klasse"
+
+#: admin/partials/wp-visualize-admin-display.php:123
+msgid "Table Cell #4"
+msgstr "Tabellenzellen-#4"
+
+#: admin/partials/wp-visualize-admin-display.php:126
+msgid "Table Cell #5, without label"
+msgstr "Tabellenzellen#5, ohne Etikett"
+
+#: admin/partials/wp-visualize-admin-display.php:127
+msgid "Table Cell #6"
+msgstr "Tabellenzellen-#6"
+
+#: admin/partials/wp-visualize-admin-display.php:138
+msgid ""
+"Upgrade now to add to Woocommerce products & create UNLIMITED shortcodes"
+msgstr ""
+
+#: admin/partials/wp-visualize-admin-display.php:141
+msgid "Let your customers see themselves with your products!"
+msgstr "Lassen Sie Ihre Kunden sich mit Ihren Produkten sehen!"
+
+#: admin/partials/wp-visualize-admin-display.php:142
+msgid "A MUST FOR EVERY BUSINESS WEBSITE"
+msgstr "EIN MUSS FÜR JEDE BUSINESS WEBSITE"
+
+#: admin/partials/wp-visualize-admin-display.php:143
+msgid ""
+"Engage your customers!! Make your website work for you with better \n"
+"                                            bounce-rates/seo and BOOST SALES"
+msgstr ""
+"Engagieren Sie Ihre Kunden!! Machen Sie Ihre Website für Sie mit besser "
+"arbeiten \n"
+"                                                Bounce-Raten/seo und BOOST "
+"SALES"
+
+#: admin/partials/wp-visualize-admin-display.php:144
+msgid "UPGRADE SPECIAL OFFER"
+msgstr "UPGRADE-SONDERANGEBOT"
+
+#: admin/partials/wp-visualize-admin-display.php:146
+msgid "LEARN MORE"
+msgstr "MEHR ERFAHREN"
+
+#: admin/partials/wp-visualize-admin-display.php:154
+msgid "Add WP-Visualize to your Woocommerce products"
+msgstr "Hinzufügen von WP-Visualize zu Ihren Woocommerce-Produkten"
+
+#: admin/partials/wp-visualize-admin-display.php:155
+msgid "To add WP-Visualise to your Woocommerce shop products"
+msgstr "So fügen Sie WP-Visualise zu Ihren Woocommerce Shop-Produkten hinzu"
+
+#: admin/partials/wp-visualize-admin-display.php:156
+msgid "HOW TO SET UP"
+msgstr "WIE MAN EINGERICHTET WIRD"
+
+#: admin/partials/wp-visualize-admin-display.php:158
+msgid "Select a product to edit"
+msgstr "Auswählen eines zu bearbeitenden Produkts"
+
+#: admin/partials/wp-visualize-admin-display.php:159
+msgid "Scroll down to"
+msgstr "Scrollen Sie nach unten zu"
+
+#: admin/partials/wp-visualize-admin-display.php:159
+msgid "General Options"
+msgstr "Allgemeine Optionen"
+
+#: admin/partials/wp-visualize-admin-display.php:159
+msgid "and you will see WP-Visualise"
+msgstr "und Sie werden WP-Visualise sehen"
+
+#: admin/partials/wp-visualize-admin-display.php:160
+msgid "Click to"
+msgstr "Klicke um"
+
+#: admin/partials/wp-visualize-admin-display.php:160
+msgid "select images"
+msgstr "選擇圖片"
+
+#: admin/partials/wp-visualize-admin-display.php:160
+msgid "transparent backgrounds look best"
+msgstr "transparente Hintergründe sehen am besten aus"
+
+#: admin/partials/wp-visualize-admin-display.php:161
+msgid "Click the"
+msgstr "Klicken Sie auf die"
+
+#: admin/partials/wp-visualize-admin-display.php:161
+msgid "Save button"
+msgstr "Speichern"
+
+#: admin/partials/wp-visualize-admin-display.php:162
+msgid "AND THAT'S IT!!"
+msgstr "Und das ist es!!"
+
+#: admin/partials/wp-visualize-admin-display.php:171
+msgid "Link Generator & Qr Codes"
+msgstr "Link Generator & Qr Codes"
+
+#: admin/partials/wp-visualize-admin-display.php:172
+msgid "A few tips on how to use this section"
+msgstr "Ein paar Tipps zur Verwendung dieses Abschnitts"
+
+#: admin/partials/wp-visualize-admin-display.php:174
+msgid ""
+"Trigger links are links that can open any page on your site paired with any "
+"of your Visualizations. E.g. You might like to run a campaign that has a "
+"specific group of products over a specific contact or shop page. Or you "
+"might just want a link to add to your social media or digital campaign. "
+"Maybe open a page with a coupon. The customer can visualize, then proceed to "
+"an order page to use that coupon!"
+msgstr ""
+"Triggerlinks sind Links, die jede Seite auf Ihrer Website öffnen können, die "
+"mit einer Ihrer Visualisierungen gekoppelt ist. Sie können z. B. eine "
+"Kampagne mit einer bestimmten Gruppe von Produkten über einen bestimmten "
+"Kontakt oder eine bestimmte Shop-Seite ausführen. Oder Sie möchten einfach "
+"nur einen Link zu Ihren sozialen Medien oder digitalen Kampagnen hinzufügen. "
+"Vielleicht öffnen Sie eine Seite mit einem Coupon. Der Kunde kann "
+"visualisieren, dann gehen Sie zu einer Bestellseite, um diesen Coupon zu "
+"verwenden!"
+
+#: admin/partials/wp-visualize-admin-display.php:175
+msgid ""
+"On creating a QR-code, you might want to have a specific page, and also when "
+"the code is scanned, either have the visualization already opened, or just "
+"open your page containging a Visualize button"
+msgstr ""
+"Beim Erstellen eines QR-Codes möchten Sie möglicherweise eine bestimmte "
+"Seite haben, und auch wenn der Code gescannt wird, haben Sie entweder die "
+"Visualisierung bereits geöffnet, oder öffnen Sie einfach ihre Seite, die "
+"eine Schaltfläche \"Visualisieren\" enthält"
+
+#: admin/partials/wp-visualize-admin-display.php:176
+msgid ""
+"Use this page to also create links that you can use on image links and your "
+"own buttons to launch Visualizations"
+msgstr ""
+"Verwenden Sie diese Seite, um auch Links zu erstellen, die Sie auf Bildlinks "
+"und Ihren eigenen Schaltflächen verwenden können, um Visualisierungen zu "
+"starten"
+
+#: admin/partials/wp-visualize-admin-display.php:177
+msgid ""
+"Trigger Attributes - Assign the class and id to any image or oject to "
+"trigger the Visualization window"
+msgstr ""
+
+#: admin/partials/wp-visualize-admin-display.php:180
+#: admin/partials/wp-visualize-admin-display.php:278
+msgid "Your ShortCodes"
+msgstr "Ihre ShortCodes"
+
+#: admin/partials/wp-visualize-admin-display.php:183
+#: admin/partials/wp-visualize-admin-display.php:281
+msgid "Name"
+msgstr "Name"
+
+#: admin/partials/wp-visualize-admin-display.php:184
+msgid "Page URL (optional)"
+msgstr "Seiten-URL (optional)"
+
+#: admin/partials/wp-visualize-admin-display.php:185
+#: admin/partials/wp-visualize-admin-display.php:201
+msgid "Trigger Link"
+msgstr "Trigger-Link"
+
+#: admin/partials/wp-visualize-admin-display.php:186
+#: admin/partials/wp-visualize-admin-display.php:202
+msgid "Open Visualization from QR code"
+msgstr "Visualizion aus QR-Code öffnen"
+
+#: admin/partials/wp-visualize-admin-display.php:187
+#: admin/partials/wp-visualize-admin-display.php:203
+msgid "Download"
+msgstr "Download"
+
+#: admin/partials/wp-visualize-admin-display.php:188
+msgid "Trigger Attributes"
+msgstr "Trigger-Link"
+
+#: admin/partials/wp-visualize-admin-display.php:199
+msgid "Product ID"
+msgstr "Produkt-ID"
+
+#: admin/partials/wp-visualize-admin-display.php:200
+msgid "Page URL (*required)"
+msgstr "Seiten-URL (*erforderlich)"
+
+#: admin/partials/wp-visualize-admin-display.php:200
+msgid "The URL below can be replaced with a permalink URL"
+msgstr "Die folgende URL kann durch eine Permalink-URL ersetzt werden"
+
+#: admin/partials/wp-visualize-admin-display.php:204
+msgid "Attributes"
+msgstr ""
+
+#: admin/partials/wp-visualize-admin-display.php:214
+msgid "Your Registration"
+msgstr "Geben Sie Ihren Upgrade-Registrierungscode ein"
+
+#: admin/partials/wp-visualize-admin-display.php:215
+msgid "Update your registration code below."
+msgstr "Geben Sie Ihren Upgrade-Registrierungscode ein."
+
+#: admin/partials/wp-visualize-admin-display.php:227
+msgid "SUBMIT REGISTRATION CODE"
+msgstr "REGISTRIERUNGSCODE EINREICHEN"
+
+#: admin/partials/wp-visualize-admin-display.php:244
+msgid "Create a Shortcode"
+msgstr "Erstellen eines Shortcodes"
+
+#: admin/partials/wp-visualize-admin-display.php:245
+msgid ""
+"The following will create a 'shortcode' that can be pasted anywhere in "
+"your \n"
+"                                    WordPress site. When you open that page "
+"or post it will enable users to add their image \n"
+"                                    and then drag your nominated product "
+"images into place"
+msgstr ""
+"Im Folgenden wird ein \"Shortcode\" erstellt, der an einer beliebigen Stelle "
+"in Ihrem \n"
+"                                WordPress-Website. Wenn Sie diese Seite "
+"öffnen oder posten, können Benutzer ihr Bild hinzufügen \n"
+"                                und ziehen Sie dann Ihre nominierten "
+"Produktbilder an Ort und Stelle"
+
+#: admin/partials/wp-visualize-admin-display.php:248
+msgid "Remove Image Backgrounds (optional)"
+msgstr "Entfernen von Bildhintergründen (optional)"
+
+#: admin/partials/wp-visualize-admin-display.php:249
+msgid "Give your shortcode a name"
+msgstr "Geben Sie Ihrem Shortcode einen Namen"
+
+#: admin/partials/wp-visualize-admin-display.php:250
+msgid "Select Images"
+msgstr "Bilder auswählen"
+
+#: admin/partials/wp-visualize-admin-display.php:253
+msgid "ADD OPTIONAL BUTTON"
+msgstr "OPTIONALE SCHALTFLÄCHE HINZUFÜGEN"
+
+#: admin/partials/wp-visualize-admin-display.php:254
+msgid "Buy Now"
+msgstr "Jetzt kaufen"
+
+#: admin/partials/wp-visualize-admin-display.php:255
+msgid "Learn More"
+msgstr "Mehr erfahren"
+
+#: admin/partials/wp-visualize-admin-display.php:256
+msgid "Contact Us"
+msgstr "Kontaktieren Sie uns"
+
+#: admin/partials/wp-visualize-admin-display.php:257
+msgid "Call Us"
+msgstr "Rufen Sie uns an"
+
+#: admin/partials/wp-visualize-admin-display.php:258
+msgid "Email Us"
+msgstr "E-Mail an uns"
+
+#: admin/partials/wp-visualize-admin-display.php:259
+msgid "SMS Us"
+msgstr "SMS Uns"
+
+#: admin/partials/wp-visualize-admin-display.php:260
+msgid "Make a Booking"
+msgstr "Buchen Sie eine Buchung"
+
+#: admin/partials/wp-visualize-admin-display.php:261
+msgid "Messenger Chat"
+msgstr "Messenger Chat"
+
+#: admin/partials/wp-visualize-admin-display.php:263
+msgid "Select a button type to display"
+msgstr "Wählen Sie einen anzuzeigenden Schaltflächentyp aus"
+
+#: admin/partials/wp-visualize-admin-display.php:264
+msgid "Leave empty for no button"
+msgstr "Frei lassen für \"Kein Button\""
+
+#: admin/partials/wp-visualize-admin-display.php:266
+msgid "Create ShortCode"
+msgstr "Erstellen von ShortCode"
+
+#: admin/partials/wp-visualize-admin-display.php:272
+msgid ""
+"Free users can create 3 ShortCodes, each with 3 maximum images. To remove "
+"all limits"
+msgstr ""
+"Kostenlose Benutzer können 3 ShortCodes erstellen, jedes mit 3 maximalen "
+"Bildern. So entfernen Sie alle Grenzwerte"
+
+#: admin/partials/wp-visualize-admin-display.php:272
+msgid "UPGRADE NOW"
+msgstr "JETZT UPGRADEN"
+
+#: admin/partials/wp-visualize-admin-display.php:282
+msgid "Edit Images"
+msgstr "Bilderbearbeitung"
+
+#: admin/partials/wp-visualize-admin-display.php:283
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/partials/wp-visualize-admin-display.php:284
+msgid "Button Actions"
+msgstr "Button-Aktionen"
+
+#: admin/partials/wp-visualize-admin-display.php:285
+msgid "Delete"
+msgstr "Löschen"
+
+#: public/class-wp-visualize-public.php:44
+#: public/class-wp-visualize-public.php:55
+msgid "Visualize"
+msgstr "Visualisieren"
+
+#: public/class-wp-visualize-public.php:90
+msgid "add your photo"
+msgstr "Fügen Sie Ihr Foto hinzu"
+
+#: public/class-wp-visualize-public.php:91
+msgid "Instructions"
+msgstr "Anweisungen"
+
+#: public/class-wp-visualize-public.php:92
+#: public/class-wp-visualize-public.php:106
+msgid "Add your photo (button above)"
+msgstr "Fügen Sie Ihr Foto hinzu (Taste oben)"
+
+#: public/class-wp-visualize-public.php:93
+msgid "Tap thumbnail below to add"
+msgstr "Tippen Sie unten auf Miniaturansicht, um"
+
+#: public/class-wp-visualize-public.php:94
+msgid "To download screenshot click"
+msgstr "Klicken Sie auf Speichern, um Screenshot herunterzuladen"
+
+#: public/class-wp-visualize-public.php:95
+msgid "Learn more"
+msgstr "Mehr erfahren"
+
+#: public/class-wp-visualize-public.php:97
+msgid "edit menu"
+msgstr "Bearbeitungsmenü"
+
+#: public/class-wp-visualize-public.php:98
+msgid "scale"
+msgstr "Skala"
+
+#: public/class-wp-visualize-public.php:99
+msgid "stretch"
+msgstr ""
+
+#: public/class-wp-visualize-public.php:100
+msgid "warp"
+msgstr "Verwerfung"
+
+#: public/class-wp-visualize-public.php:101
+msgid "remove selected"
+msgstr ""
+
+#: public/class-wp-visualize-public.php:102
+msgid "hide frames"
+msgstr "Rahmen ausblenden"
+
+#: public/class-wp-visualize-public.php:103
+msgid "clear all"
+msgstr "löschen"
+
+#: public/class-wp-visualize-public.php:104
+msgid "clone"
+msgstr ""
+
+#: public/class-wp-visualize-public.php:105
+msgid "SAVE"
+msgstr "SPEICHERN"
+
+#: public/class-wp-visualize-public.php:107
+msgid "Tap image below & then drag, resize, warp, pinch, zoom!"
+msgstr ""
+"Tippen Sie auf Bild unten & dann ziehen, ändern Sie die Größe, Verzug, "
+"kneifen, zoomen!"
+
+#: public/class-wp-visualize-public.php:108
+msgid "Tap item to show/hide menu"
+msgstr "Tippen Sie auf Element, um das Menü ein-/ausblenden zu sehen"
+
+#: public/class-wp-visualize-public.php:109
+msgid "buy now"
+msgstr "jetzt kaufen"
+
+#: public/class-wp-visualize-public.php:110
+msgid "learn more"
+msgstr "mehr erfahren"
+
+#: public/class-wp-visualize-public.php:111
+msgid "contact us"
+msgstr "Kontaktieren Sie uns"
+
+#: public/class-wp-visualize-public.php:112
+msgid "call now"
+msgstr "Rufen Sie jetzt an"
+
+#: public/class-wp-visualize-public.php:113
+msgid "sms/text now"
+msgstr "sms/text jetzt"
+
+#: public/class-wp-visualize-public.php:114
+msgid "email us"
+msgstr "Schreiben Sie uns eine E-Mail"
+
+#: public/class-wp-visualize-public.php:115
+msgid "let\\'s chat"
+msgstr "let es chat"
+
+#: public/class-wp-visualize-public.php:116
+msgid "make a booking"
+msgstr "machen Sie eine Buchung"
+
+#: public/class-wp-visualize-public.php:117
+msgid "close"
+msgstr "schließen"
+
+#: public/class-wp-visualize-public.php:118
+msgid "powered by"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP-Visualize"
+msgstr "WP-Visualize"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://wpvisualize.com"
+msgstr "https://wpvisualize.com"
+
+#. Description of the plugin/theme
+msgid ""
+"WP-Visualize lets your customers see themselves with your products. "
+"Potential customers can add their own image to their screen and then add "
+"your products, for example clothes and fashion, home renovations, floor "
+"coverings, furnishings, swimming pools or ... anything.. even tennis courts!"
+msgstr ""
+"Mit WP-Visualize können Sich Ihre Kunden mit Ihren Produkten ausbilden. "
+"Potenzielle Kunden können ihr eigenes Bild auf ihren Bildschirm hinzufügen "
+"und dann Ihre Produkte hinzufügen, zum Beispiel Kleidung und Mode, "
+"Hausrenovierungen, Bodenbeläge, Möbel, Schwimmbäder oder ... Etwas.. sogar "
+"Tennisplätze!"
+
+#. Author of the plugin/theme
+msgid "Bizetools"
+msgstr "Bizetools"
+
+#~ msgid "Remove WP Visualize branding"
+#~ msgstr "Entfernen WP Visualize Branding entfernen"
+
+#~ msgid "Air Conditioning"
+#~ msgstr "Klimaanlage"
+
+#~ msgid "Art"
+#~ msgstr "Kunst"
+
+#~ msgid "Automotive"
+#~ msgstr "Automobil"
+
+#~ msgid "Bathroom Renovations"
+#~ msgstr "Badezimmerrenovierungen"
+
+#~ msgid "Body Art and Tattoos"
+#~ msgstr "Körperkunst und Tattoos"
+
+#~ msgid "Building"
+#~ msgstr "Gebäude"
+
+#~ msgid "Ceiling Fans"
+#~ msgstr "Deckenventilatoren"
+
+#~ msgid "Curtains and Blinds"
+#~ msgstr "Vorhänge und Jalousien"
+
+#~ msgid "Doors"
+#~ msgstr "Türen"
+
+#~ msgid "Drop Shipping"
+#~ msgstr "Drop Versand"
+
+#~ msgid "Electronics"
+#~ msgstr "Elektro-Artikel"
+
+#~ msgid "Fashion - Accessories"
+#~ msgstr "Mode - Accessoires"
+
+#~ msgid "Fashion - Clothing"
+#~ msgstr "Mode - Kleidung"
+
+#~ msgid "Fireplaces"
+#~ msgstr "Kamine"
+
+#~ msgid "Flooring"
+#~ msgstr "Bodenbelag"
+
+#~ msgid "Gardening & Landscaping"
+#~ msgstr "Garten- und Landschaftsbau"
+
+#~ msgid "Hair Stylist"
+#~ msgstr "Haar-Stylist"
+
+#~ msgid "Home Furnishings"
+#~ msgstr "Wohnmöbel"
+
+#~ msgid "Home Services"
+#~ msgstr "Home Dienstleistungen"
+
+#~ msgid "Interior Design"
+#~ msgstr "Innenarchitektur"
+
+#~ msgid "IT"
+#~ msgstr "IT"
+
+#~ msgid "Jewellery"
+#~ msgstr "Schmuck"
+
+#~ msgid "Kitchen Appliances"
+#~ msgstr "Küchengeräte"
+
+#~ msgid "Kitchen Renovations"
+#~ msgstr "Küchenrenovierungen"
+
+#~ msgid "Marketing"
+#~ msgstr "Marketing"
+
+#~ msgid "Pet Accessories"
+#~ msgstr "HaustierZubehör"
+
+#~ msgid "Pools and Spas"
+#~ msgstr "Pools und Spas"
+
+#~ msgid "Renovation Services"
+#~ msgstr "Renovierungsdienstleistungen"
+
+#~ msgid "Retail - Online only"
+#~ msgstr "Einzelhandel - nur Online"
+
+#~ msgid "Retail - Online and Offline"
+#~ msgstr "Einzelhandel - Online und Offline"
+
+#~ msgid "Security Doors"
+#~ msgstr "Sicherheitstüren"
+
+#~ msgid "Solar"
+#~ msgstr "Solar"
+
+#~ msgid "Web Design"
+#~ msgstr "Web Design"
+
+#~ msgid "White Goods"
+#~ msgstr "Weiße Ware"
+
+#~ msgid "Windows"
+#~ msgstr "Fenster"
+
+#~ msgid "OTHER"
+#~ msgstr "SONSTIGES"
+
+#~ msgid "Upgrade or join here"
+#~ msgstr "Upgrade zum Speichern von Änderungen"
+
+#~ msgid "Let's get started!"
+#~ msgstr "Let's get started !"
+
+#~ msgid "PAID USERS & FREE TRIAL USERS - Enter your Registration Code"
+#~ msgstr "PAID USERS ONLY - Geben Sie Ihren Upgrade-Registrierungscode ein"
+
+#~ msgid ""
+#~ "Enter your Registration Code. (As emailed and displayed following your "
+#~ "payment or free trial request.)"
+#~ msgstr ""
+#~ "Geben Sie Ihren Upgrade-Registrierungscode ein. (Wie per E-Mail und "
+#~ "angezeigt folowing Ihre Zahlung)"
+
+#~ msgid "or Upgrade now"
+#~ msgstr "oder Jetzt aktualisieren"
+
+#~ msgid "to upgrade"
+#~ msgstr "zum Upgrade"
+
+#~ msgid "FREE USERS - Request your Activation code."
+#~ msgstr "FREE oder TRIAL USERS - Fordern Sie Ihren Aktivierungscode an."
+
+#~ msgid ""
+#~ "This applies ONLY if you are not in our FREE TRIAL & have not purchased "
+#~ "WP Visulalize. Your first step for free users is to activate WP "
+#~ "Visualize. Please enter your details below. we will immediately email "
+#~ "through your activation code. Activation helps us to ensure installations "
+#~ "are legitimate. We can also then provide important information and "
+#~ "updates to ensure that you get the most benefits from WP-Visualize."
+#~ msgstr ""
+#~ "Ihr erster Schritt ist zu aktivieren. Bitte geben Sie unten Ihre Daten "
+#~ "ein. wir werden sofort per E-Mail über Ihren Aktivierungscode senden. Die "
+#~ "Aktivierung hilft uns, sicherzustellen, dass Installationen legitim sind. "
+#~ "Wir können dann auch wichtige Informationen und Updates bereitstellen, um "
+#~ "sicherzustellen, dass Sie die meisten Vorteile von WP-Visualize erhalten."
+
+#~ msgid ""
+#~ "Please complete below. Then check your email for your Activation Code. "
+#~ "Then copy and paste below to authenticate & activate your installation of "
+#~ "WP-Visualize."
+#~ msgstr ""
+#~ "Bitte füllen Sie unten aus. Überprüfen Sie dann Ihre E-Mail-Adresse auf "
+#~ "Ihren Aktivierungscode. Kopieren und fügen Sie dann unten ein, um Ihre "
+#~ "Installation von WP-Visualize zu authentifizieren und zu aktivieren."
+
+#~ msgid "Your Industry"
+#~ msgstr "Ihre Branche"
+
+#~ msgid "SEND ACTIVATION CODE"
+#~ msgstr "AKTIVIERUNGSCODE SENDEN"
+
+#~ msgid ""
+#~ "We only ask for your industry to ensure any communications from us are "
+#~ "totally relevant to you. We NEVER provide, share or sell your information "
+#~ "to 3rd parties unless required by law."
+#~ msgstr ""
+#~ "Wir bitten Ihre Branche nur, sicherzustellen, dass jegliche Kommunikation "
+#~ "von uns für Sie absolut relevant ist. Wir stellen Ihre Daten NIEMALS an "
+#~ "Dritte weiter, teilen oder verkaufen sie, es sei denn, dies ist "
+#~ "gesetzlich vorgeschrieben."
+
+#~ msgid "Our Privacy Policy"
+#~ msgstr "Unsere Datenschutzerklärung"
+
+#~ msgid "Terms & Conditions"
+#~ msgstr "Allgemeine Geschäftsbedingungen"
+
+#~ msgid "FREE Users - Enter your Activation Code here"
+#~ msgstr ">Geben Sie hier Ihren Aktivierungscode ein"
+
+#~ msgid ""
+#~ "Once you retrieve your activation code from your email, copy it and paste "
+#~ "in the box below. Click Activate and you are set to go!"
+#~ msgstr ""
+#~ "Sobald Sie Ihren Aktivierungscode aus Ihrer E-Mail abrufen, kopieren Sie "
+#~ "ihn und fügen Sie ihn in das Feld unten ein. Klicken Sie auf Aktivieren "
+#~ "und wir sind auf los!"
+
+#~ msgid "ACTIVATE NOW"
+#~ msgstr "JETZT AKTIVIEREN"
+
+#~ msgid ""
+#~ "Create shortcodes below to paste anywhere in your Wordpress site. "
+#~ "Customers can then add their image and integrate your products."
+#~ msgstr ""
+#~ "Erstellen Sie unten Shortcodes, um sie an einer beliebigen Stelle in "
+#~ "Ihrer Wordpress-Website einzufügen. Kunden können dann ihr Image "
+#~ "hinzufügen und Ihre Produkte integrieren."
+
+#~ msgid "Upgrade now! UNLIMITED Products AND ShortCodes"
+#~ msgstr "Upgrade jetzt! UNLIMITED Produkte UND Shortcodes"
+
+#~ msgid "BOOST SALES"
+#~ msgstr "STEIGERN SIE DEN UMSATZ"
+
+#~ msgid ""
+#~ "Upgrade now and add unlimited products. Also create unlimited\n"
+#~ "                                    shortcodes. White label with your "
+#~ "logo and customizations The more customers interact and stay on your page "
+#~ "the better! Get your\n"
+#~ "                                    UNLIMITED licence now. ON SPECIAL "
+#~ "RIGHT NOW!"
+#~ msgstr ""
+#~ "Aktualisieren Sie jetzt und fügen Sie unbegrenzte Produkte hinzu. "
+#~ "Erstellen Sie auch unbegrenzte\n"
+#~ "                                    Kurzwahlnummern. Weißes Etikett mit "
+#~ "Ihrem Logo und Anpassungen Je mehr Kunden interagieren und auf Ihrer "
+#~ "Seite bleiben, desto besser! Holen Sie sich Ihre\n"
+#~ "                                    UNLIMITED-Lizenz jetzt für nur 27 USD "
+#~ "pro Monat, 99 USD pro Jahr oder einmal nur 197 USD!"
+
+#~ msgid "UPGRADE ME"
+#~ msgstr "UPGRADE MICH"
+
+#~ msgid "QUICK TIPS"
+#~ msgstr "QUICK TIPS"
+
+#~ msgid ""
+#~ "Thank you for your support. To integrate to your Woocommerce products, "
+#~ "open a product\n"
+#~ "                                    to edit and select images. A button "
+#~ "will automatically appear on your product for\n"
+#~ "                                    your customers to engage."
+#~ msgstr ""
+#~ "Vielen Dank für Ihre Unterstützung. Um sich in Ihre Woocommerce-Produkte "
+#~ "zu integrieren, öffnen Sie ein Produkt\n"
+#~ "                                    , um Bilder zu bearbeiten und "
+#~ "auszuwählen. Eine Schaltfläche erscheint automatisch auf Ihrem Produkt "
+#~ "für\n"
+#~ "                                    Ihre Kunden zu engagieren."
+
+#~ msgid "My Shortcodes"
+#~ msgstr "Meine Kurzwahlnummern"
+
+#~ msgid "My Products"
+#~ msgstr "Meine Produkte"
+
+#~ msgid "resize"
+#~ msgstr "Größe"
+
+#~ msgid "remove"
+#~ msgstr "entfernen"
